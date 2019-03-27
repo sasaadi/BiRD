@@ -27,7 +27,8 @@ In order to obtain the related terms for any bigram, run the script `generate_re
 
 `python generate_related_terms.py -p2pt PATH_TO_PHRASE_TABLE -p2wikipedia PATH_TO_WIKIPEDIA -freq 30 syn_number 5 -p2in PATH_TO_INPUT -p2out PATH_TO_OUTPUT`
 
-where:
+where
+
 -p2pt is the path to the generated  `phrase_table_unigram_bigram.txt` file from phrase table,
 -p2wikipedia is tha path to the generated `wikipedia_unigram_bigram.pickle` file from Wikipedia,
 -freq is the frequency threshold of English phrases in the phrase table,
