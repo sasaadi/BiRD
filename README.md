@@ -1,6 +1,6 @@
 # Introduction
 
-A python implementation to generate term pairs of the English Bigram Relatedness Dataset (BiRD). Details of how we created the BiRD can be found in our paper: [Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset: A Resource For Examining Semantic Composition](URL).
+A python implementation to generate term pairs of the English Bigram Relatedness Dataset (BiRD). Details on how we created the BiRD can be found in our paper: [Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset: A Resource For Examining Semantic Composition](URL).
 
 BiRD can be used for two purposes: (1) to evaluate methods of semantic composition and (2) to analyse to obtain insights into bigram semantic relatedness. Both purposes are studied in detail in [our paper](URL). The visualizations of the data and the annotation questionnaire are also available through the [project's webpage](http://saifmohammad.com/WebPages/BiRD.html). 
 
