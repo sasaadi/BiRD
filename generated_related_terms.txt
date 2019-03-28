@@ -1,0 +1,3330 @@
+potential energy	potential energy	WordNet_synonym
+potential energy	mechanical energy	WordNet_is-a
+potential energy	elastic energy	WordNet_is-a
+professional tennis	professional tennis	WordNet_synonym
+professional tennis	sport	WordNet_is-a
+prize money	prize money	WordNet_synonym
+prize money	award	WordNet_is-a
+west coast	west coast	WordNet_synonym
+west coast	western	PhraseTable_co-aligned
+west coast	shore	PhraseTable_co-aligned
+west coast	side	PhraseTable_co-aligned
+west coast	coastline	PhraseTable_co-aligned
+west coast	northwest	PhraseTable_co-aligned
+west coast	western part	PhraseTable_co-aligned
+west coast	western region	PhraseTable_co-aligned
+west coast	western side	PhraseTable_co-aligned
+west coast	western shore	PhraseTable_co-aligned
+west coast	western end	PhraseTable_co-aligned
+sum total	sum	WordNet_synonym
+sum total	summation	WordNet_synonym
+sum total	sum total	WordNet_synonym
+sum total	collection	WordNet_is-a
+sum total	aggregate	WordNet_is-a
+sum total	maximum	PhraseTable_co-aligned
+sum total	end	PhraseTable_co-aligned
+sum total	balance	PhraseTable_co-aligned
+sum total	add	PhraseTable_co-aligned
+sum total	essence	PhraseTable_co-aligned
+sum total	full amount	PhraseTable_co-aligned
+sum total	aggregate amount	PhraseTable_co-aligned
+sum total	bottom line	PhraseTable_co-aligned
+sum total	dollar amount	PhraseTable_co-aligned
+sum total	entire amount	PhraseTable_co-aligned
+audio recording	audio	WordNet_synonym
+audio recording	sound recording	WordNet_synonym
+audio recording	audio recording	WordNet_synonym
+audio recording	audiotape	WordNet_is-a
+audio recording	sound	PhraseTable_co-aligned
+audio recording	radio	PhraseTable_co-aligned
+audio recording	tape	PhraseTable_co-aligned
+audio recording	audiotape	PhraseTable_co-aligned
+audio recording	music	PhraseTable_co-aligned
+audio recording	recorded sound	PhraseTable_co-aligned
+audio recording	dramatic work	PhraseTable_co-aligned
+audio recording	cassette tape	PhraseTable_co-aligned
+audio recording	pointing device	PhraseTable_co-aligned
+audio recording	sound reinforcement	PhraseTable_co-aligned
+art school	art school	WordNet_synonym
+art school	conservatory	WordNet_is-a
+deep water	deep water	WordNet_synonym
+deep water	trouble	WordNet_is-a
+deep water	lot	PhraseTable_co-aligned
+deep water	depth	PhraseTable_co-aligned
+deep water	ship	PhraseTable_co-aligned
+deep water	region	PhraseTable_co-aligned
+deep water	river	PhraseTable_co-aligned
+deep water	submerged land	PhraseTable_co-aligned
+east coast	east coast	WordNet_synonym
+east coast	make	PhraseTable_co-aligned
+east coast	stand	PhraseTable_co-aligned
+east coast	person	PhraseTable_co-aligned
+east coast	remains	PhraseTable_co-aligned
+east coast	shore	PhraseTable_co-aligned
+east coast	eastern part	PhraseTable_co-aligned
+east coast	eastern seaboard	PhraseTable_co-aligned
+east coast	eastern shore	PhraseTable_co-aligned
+east coast	eastern side	PhraseTable_co-aligned
+east coast	eastern region	PhraseTable_co-aligned
+notary public	notary	WordNet_synonym
+notary public	notary public	WordNet_synonym
+notary public	official	WordNet_is-a
+notary public	lawyer	PhraseTable_co-aligned
+notary public	solicitor	PhraseTable_co-aligned
+notary public	conveyancer	PhraseTable_co-aligned
+notary public	counsel	PhraseTable_co-aligned
+notary public	document	PhraseTable_co-aligned
+notary public	real estate	PhraseTable_co-aligned
+fair trade	fair trade	WordNet_synonym
+fair trade	trading	PhraseTable_co-aligned
+fair trade	food	PhraseTable_co-aligned
+fair trade	alternative trading	PhraseTable_co-aligned
+square foot	square foot	WordNet_synonym
+square foot	sq ft	WordNet_synonym
+square foot	area unit	WordNet_is-a
+square foot	footage	PhraseTable_co-aligned
+square foot	facility	PhraseTable_co-aligned
+square foot	water	PhraseTable_co-aligned
+square foot	space	PhraseTable_co-aligned
+square foot	metre	PhraseTable_co-aligned
+pop art	pop art	WordNet_synonym
+pop art	artistic movement	WordNet_is-a
+perfect pitch	absolute pitch	WordNet_synonym
+perfect pitch	perfect pitch	WordNet_synonym
+perfect pitch	hearing	WordNet_is-a
+graduate school	graduate school	WordNet_synonym
+graduate school	grad school	WordNet_synonym
+graduate school	business school	WordNet_is-a
+graduate school	university	WordNet_part-whole
+graduate school	education	PhraseTable_co-aligned
+graduate school	study	PhraseTable_co-aligned
+graduate school	university	PhraseTable_co-aligned
+graduate school	research	PhraseTable_co-aligned
+graduate school	degree	PhraseTable_co-aligned
+graduate school	advanced education	PhraseTable_co-aligned
+graduate school	advanced study	PhraseTable_co-aligned
+graduate school	postgraduate training	PhraseTable_co-aligned
+graduate school	postgraduate education	PhraseTable_co-aligned
+graduate school	postgraduate study	PhraseTable_co-aligned
+fantasy world	fairyland	WordNet_synonym
+fantasy world	fantasy world	WordNet_synonym
+fantasy world	phantasy world	WordNet_synonym
+fantasy world	phantasy	WordNet_is-a
+fantasy world	paracosm	WordNet_is-a
+list price	list price	WordNet_synonym
+list price	asking price	WordNet_is-a
+list price	regular	PhraseTable_co-aligned
+list price	market	PhraseTable_co-aligned
+list price	purchase	PhraseTable_co-aligned
+broken heart	broken heart	WordNet_synonym
+broken heart	sorrow	WordNet_is-a
+upset stomach	indigestion	WordNet_synonym
+upset stomach	dyspepsia	WordNet_synonym
+upset stomach	stomach upset	WordNet_synonym
+upset stomach	upset stomach	WordNet_synonym
+upset stomach	symptom	WordNet_is-a
+upset stomach	stomachache	WordNet_part-whole
+commanding officer	commandant	WordNet_synonym
+commanding officer	commander	WordNet_synonym
+commanding officer	commanding officer	WordNet_synonym
+commanding officer	military officer	WordNet_is-a
+commanding officer	generalissimo	WordNet_is-a
+commanding officer	captain	PhraseTable_co-aligned
+commanding officer	commandant	PhraseTable_co-aligned
+commanding officer	command	PhraseTable_co-aligned
+commanding officer	master	PhraseTable_co-aligned
+commanding officer	squadron	PhraseTable_co-aligned
+commanding officer	wing commander	PhraseTable_co-aligned
+commanding officer	base commander	PhraseTable_co-aligned
+commanding officer	force commander	PhraseTable_co-aligned
+commanding officer	aircraft commander	PhraseTable_co-aligned
+commanding officer	appointed commander	PhraseTable_co-aligned
+front entrance	front door	WordNet_synonym
+front entrance	front entrance	WordNet_synonym
+front entrance	exterior door	WordNet_is-a
+front entrance	knocker	WordNet_part-whole
+front entrance	main	PhraseTable_co-aligned
+front entrance	gate	PhraseTable_co-aligned
+front entrance	entry	PhraseTable_co-aligned
+front entrance	foyer	PhraseTable_co-aligned
+front entrance	visitor	PhraseTable_co-aligned
+front entrance	main lobby	PhraseTable_co-aligned
+front entrance	main entry	PhraseTable_co-aligned
+front entrance	main gate	PhraseTable_co-aligned
+front entrance	main door	PhraseTable_co-aligned
+front entrance	main hall	PhraseTable_co-aligned
+queen dowager	queen dowager	WordNet_synonym
+queen dowager	queen mother	WordNet_is-a
+standard time	civil time	WordNet_synonym
+standard time	standard time	WordNet_synonym
+standard time	local time	WordNet_synonym
+standard time	yukon time	WordNet_is-a
+standard time	day	PhraseTable_co-aligned
+standard time	today	PhraseTable_co-aligned
+standard time	clock	PhraseTable_co-aligned
+standard time	point	PhraseTable_co-aligned
+standard time	moment	PhraseTable_co-aligned
+standard time	hourly basis	PhraseTable_co-aligned
+standard time	hourly rate	PhraseTable_co-aligned
+standard time	single hour	PhraseTable_co-aligned
+standard time	full hour	PhraseTable_co-aligned
+standard time	extra hour	PhraseTable_co-aligned
+lead time	lead time	WordNet_synonym
+lead time	time interval	WordNet_is-a
+lead time	case	PhraseTable_co-aligned
+lead time	longer	PhraseTable_co-aligned
+lead time	part	PhraseTable_co-aligned
+lead time	timeliness	PhraseTable_co-aligned
+lead time	step	PhraseTable_co-aligned
+lead time	timely manner	PhraseTable_co-aligned
+lead time	limitation period	PhraseTable_co-aligned
+lead time	timely fashion	PhraseTable_co-aligned
+lead time	waiting period	PhraseTable_co-aligned
+lead time	prescribed period	PhraseTable_co-aligned
+audio cd	audio cd	WordNet_synonym
+audio cd	compact disk	WordNet_is-a
+green light	go-ahead	WordNet_synonym
+green light	green light	WordNet_synonym
+green light	traffic light	WordNet_is-a
+green light	approval	PhraseTable_co-aligned
+green light	blueprint	PhraseTable_co-aligned
+green light	clearance	PhraseTable_co-aligned
+green light	permission	PhraseTable_co-aligned
+green light	thumb	PhraseTable_co-aligned
+green light	clean bill	PhraseTable_co-aligned
+green light	received approval	PhraseTable_co-aligned
+cabin class	cabin class	WordNet_synonym
+cabin class	second class	WordNet_synonym
+cabin class	economy class	WordNet_synonym
+cabin class	accommodation	WordNet_is-a
+orchestra pit	pit	WordNet_synonym
+orchestra pit	orchestra pit	WordNet_synonym
+orchestra pit	area	WordNet_is-a
+professional golf	professional golf	WordNet_synonym
+professional golf	golf game	WordNet_is-a
+input signal	input	WordNet_synonym
+input signal	input signal	WordNet_synonym
+input signal	signaling	WordNet_is-a
+standard transmission	standard transmission	WordNet_synonym
+standard transmission	stick shift	WordNet_synonym
+standard transmission	transmission system	WordNet_is-a
+clean slate	fresh start	WordNet_synonym
+clean slate	clean slate	WordNet_synonym
+clean slate	opportunity	WordNet_is-a
+square meter	centare	WordNet_synonym
+square meter	square meter	WordNet_synonym
+square meter	square metre	WordNet_synonym
+square meter	area unit	WordNet_is-a
+square meter	metre	PhraseTable_co-aligned
+tap water	tap water	WordNet_synonym
+tap water	h2o	WordNet_is-a
+tap water	air	PhraseTable_co-aligned
+tap water	faucet	PhraseTable_co-aligned
+tap water	intake	PhraseTable_co-aligned
+drum brake	drum brake	WordNet_synonym
+drum brake	hydraulic brake	WordNet_is-a
+drum brake	brake drum	WordNet_part-whole
+grade school	grade school	WordNet_synonym
+grade school	grammar school	WordNet_synonym
+grade school	elementary school	WordNet_synonym
+grade school	primary school	WordNet_synonym
+grade school	infant school	WordNet_is-a
+grade school	primary	PhraseTable_co-aligned
+grade school	year	PhraseTable_co-aligned
+grade school	literacy	PhraseTable_co-aligned
+grade school	middle	PhraseTable_co-aligned
+grade school	preschool	PhraseTable_co-aligned
+grade school	primary level	PhraseTable_co-aligned
+grade school	elementary level	PhraseTable_co-aligned
+grade school	primary schooling	PhraseTable_co-aligned
+grade school	public hospital	PhraseTable_co-aligned
+grade school	primary education	PhraseTable_co-aligned
+subject area	discipline	WordNet_synonym
+subject area	subject	WordNet_synonym
+subject area	field	WordNet_synonym
+subject area	study	WordNet_synonym
+subject area	bailiwick	WordNet_synonym
+subject area	subject area	WordNet_synonym
+subject area	subject field	WordNet_synonym
+subject area	knowledge domain	WordNet_is-a
+subject area	allometry	WordNet_is-a
+subject area	aspect	PhraseTable_co-aligned
+subject area	estate	PhraseTable_co-aligned
+subject area	development	PhraseTable_co-aligned
+subject area	comment	PhraseTable_co-aligned
+subject area	deal	PhraseTable_co-aligned
+subject area	health care	PhraseTable_co-aligned
+subject area	chosen field	PhraseTable_co-aligned
+subject area	important issue	PhraseTable_co-aligned
+subject area	public health	PhraseTable_co-aligned
+subject area	specific topic	PhraseTable_co-aligned
+junior school	junior school	WordNet_synonym
+junior school	grade school	WordNet_is-a
+high season	high season	WordNet_synonym
+high season	peak season	WordNet_synonym
+high season	peak	PhraseTable_co-aligned
+high season	camping	PhraseTable_co-aligned
+high season	month	PhraseTable_co-aligned
+high season	seasonal	PhraseTable_co-aligned
+high season	peak period	PhraseTable_co-aligned
+library science	library science	WordNet_synonym
+library science	humanistic discipline	WordNet_is-a
+library science	librarianship	PhraseTable_co-aligned
+library science	librarian	PhraseTable_co-aligned
+library science	service	PhraseTable_co-aligned
+library science	work	PhraseTable_co-aligned
+library science	archivist	PhraseTable_co-aligned
+dance step	step	WordNet_synonym
+dance step	dance step	WordNet_synonym
+dance step	locomotion	WordNet_is-a
+dance step	chasse	WordNet_is-a
+shuttle bus	shuttle bus	WordNet_synonym
+shuttle bus	commute	PhraseTable_co-aligned
+shuttle bus	commuter	PhraseTable_co-aligned
+shuttle bus	transfer	PhraseTable_co-aligned
+shuttle bus	rapeseed	PhraseTable_co-aligned
+shuttle bus	commuting	PhraseTable_co-aligned
+shuttle bus	transfer rate	PhraseTable_co-aligned
+shuttle bus	commuting distance	PhraseTable_co-aligned
+shuttle bus	oilseed rape	PhraseTable_co-aligned
+shuttle bus	space center	PhraseTable_co-aligned
+shuttle bus	commuter service	PhraseTable_co-aligned
+executive program	supervisor	WordNet_synonym
+executive program	supervisory program	WordNet_synonym
+executive program	executive program	WordNet_synonym
+executive program	programme	WordNet_is-a
+executive program	supervisory routine	WordNet_part-whole
+disc brake	disk brake	WordNet_synonym
+disc brake	disc brake	WordNet_synonym
+disc brake	hydraulic brake	WordNet_is-a
+disc brake	brake disk	WordNet_part-whole
+state government	state government	WordNet_synonym
+state government	authorities	WordNet_is-a
+attorney general	attorney general	WordNet_synonym
+attorney general	lawman	WordNet_is-a
+attorney general	prosecutor	PhraseTable_co-aligned
+attorney general	counsel	PhraseTable_co-aligned
+attorney general	department	PhraseTable_co-aligned
+attorney general	ministry	PhraseTable_co-aligned
+attorney general	solicitor	PhraseTable_co-aligned
+attorney general	health minister	PhraseTable_co-aligned
+attorney general	cabinet minister	PhraseTable_co-aligned
+attorney general	federal minister	PhraseTable_co-aligned
+attorney general	finance minister	PhraseTable_co-aligned
+attorney general	prime minister	PhraseTable_co-aligned
+trial court	trial court	WordNet_synonym
+trial court	tribunal	WordNet_is-a
+trial court	tribunal	PhraseTable_co-aligned
+trial court	application	PhraseTable_co-aligned
+trial court	original	PhraseTable_co-aligned
+trial court	division	PhraseTable_co-aligned
+trial court	hearing	PhraseTable_co-aligned
+trial court	original jurisdiction	PhraseTable_co-aligned
+trial court	judicial review	PhraseTable_co-aligned
+trial court	irreparable harm	PhraseTable_co-aligned
+trial court	government institution	PhraseTable_co-aligned
+trial court	public service	PhraseTable_co-aligned
+income tax	income tax	WordNet_synonym
+income tax	taxation	WordNet_is-a
+income tax	bracket creep	WordNet_is-a
+income tax	statement	PhraseTable_co-aligned
+income tax	taxation	PhraseTable_co-aligned
+income tax	declaration	PhraseTable_co-aligned
+income tax	return	PhraseTable_co-aligned
+income tax	prince	PhraseTable_co-aligned
+income tax	opening statement	PhraseTable_co-aligned
+income tax	impact statement	PhraseTable_co-aligned
+income tax	fiscal reform	PhraseTable_co-aligned
+income tax	taxation system	PhraseTable_co-aligned
+income tax	insurance company	PhraseTable_co-aligned
+school year	school year	WordNet_synonym
+school year	academic year	WordNet_synonym
+school year	quarter	WordNet_part-whole
+school year	annum	PhraseTable_co-aligned
+school year	grade	PhraseTable_co-aligned
+school year	copy	PhraseTable_co-aligned
+school year	time	PhraseTable_co-aligned
+school year	student	PhraseTable_co-aligned
+school year	annual basis	PhraseTable_co-aligned
+school year	yearly basis	PhraseTable_co-aligned
+school year	annual survey	PhraseTable_co-aligned
+school year	mailing list	PhraseTable_co-aligned
+school year	grade level	PhraseTable_co-aligned
+football team	eleven	WordNet_synonym
+football team	football team	WordNet_synonym
+football team	squad	WordNet_is-a
+football team	football league	WordNet_part-whole
+board game	board game	WordNet_synonym
+board game	parlor game	WordNet_is-a
+board game	backgammon	WordNet_is-a
+law practice	law practice	WordNet_synonym
+law practice	lawyer	PhraseTable_co-aligned
+law practice	bar	PhraseTable_co-aligned
+law practice	legal profession	PhraseTable_co-aligned
+recording studio	recording studio	WordNet_synonym
+recording studio	accompanist	PhraseTable_co-aligned
+recording studio	instrumentalist	PhraseTable_co-aligned
+recording studio	organist	PhraseTable_co-aligned
+recording studio	sound	PhraseTable_co-aligned
+recording studio	sound recorder	PhraseTable_co-aligned
+recording studio	sound stage	PhraseTable_co-aligned
+radio broadcast	radio broadcast	WordNet_synonym
+radio broadcast	broadcaster	PhraseTable_co-aligned
+radio broadcast	programming	PhraseTable_co-aligned
+radio broadcast	television	PhraseTable_co-aligned
+radio broadcast	undertaking	PhraseTable_co-aligned
+radio broadcast	distribution	PhraseTable_co-aligned
+radio broadcast	broadcasting industry	PhraseTable_co-aligned
+radio broadcast	broadcasting system	PhraseTable_co-aligned
+radio broadcast	television broadcasting	PhraseTable_co-aligned
+radio broadcast	broadcasting equipment	PhraseTable_co-aligned
+radio broadcast	broadcasting corporation	PhraseTable_co-aligned
+documentary film	documentary	WordNet_synonym
+documentary film	docudrama	WordNet_synonym
+documentary film	infotainment	WordNet_synonym
+documentary film	documentary film	WordNet_synonym
+documentary film	movie	WordNet_is-a
+documentary film	background	PhraseTable_co-aligned
+documentary film	information	PhraseTable_co-aligned
+documentary film	resource	PhraseTable_co-aligned
+documentary film	briefing	PhraseTable_co-aligned
+documentary film	documentation	PhraseTable_co-aligned
+documentary film	information retrieval	PhraseTable_co-aligned
+documentary film	abusive behaviour	PhraseTable_co-aligned
+documentary film	fact sheet	PhraseTable_co-aligned
+documentary film	extensive literature	PhraseTable_co-aligned
+documentary film	literature review	PhraseTable_co-aligned
+world cup	world cup	WordNet_synonym
+world cup	tournament	WordNet_is-a
+world cup	event	PhraseTable_co-aligned
+world cup	germany	PhraseTable_co-aligned
+world cup	championship	PhraseTable_co-aligned
+world cup	canoe	PhraseTable_co-aligned
+life cycle	life cycle	WordNet_synonym
+life cycle	organic phenomenon	WordNet_is-a
+life cycle	lifetime	PhraseTable_co-aligned
+life cycle	round	PhraseTable_co-aligned
+life cycle	lifespan	PhraseTable_co-aligned
+life cycle	lifestyle	PhraseTable_co-aligned
+life cycle	world	PhraseTable_co-aligned
+life cycle	ultimate price	PhraseTable_co-aligned
+life cycle	real world	PhraseTable_co-aligned
+life cycle	good living	PhraseTable_co-aligned
+life cycle	high school	PhraseTable_co-aligned
+life cycle	current round	PhraseTable_co-aligned
+input data	input file	WordNet_synonym
+input data	input data	WordNet_synonym
+input data	computer file	WordNet_is-a
+input data	count	PhraseTable_co-aligned
+input data	population	PhraseTable_co-aligned
+input data	service	PhraseTable_co-aligned
+input data	tabulation	PhraseTable_co-aligned
+input data	table	PhraseTable_co-aligned
+input data	personal information	PhraseTable_co-aligned
+input data	statistical information	PhraseTable_co-aligned
+input data	information system	PhraseTable_co-aligned
+input data	collect information	PhraseTable_co-aligned
+input data	health information	PhraseTable_co-aligned
+feature film	feature	WordNet_synonym
+feature film	feature film	WordNet_synonym
+feature film	movie	WordNet_is-a
+feature film	western	WordNet_is-a
+feature film	movie	PhraseTable_co-aligned
+feature film	picture	PhraseTable_co-aligned
+feature film	cinematography	PhraseTable_co-aligned
+feature film	video	PhraseTable_co-aligned
+feature film	cinema	PhraseTable_co-aligned
+feature film	motion picture	PhraseTable_co-aligned
+feature film	long form	PhraseTable_co-aligned
+feature film	box office	PhraseTable_co-aligned
+feature film	filmmaking process	PhraseTable_co-aligned
+feature film	big fat	PhraseTable_co-aligned
+law school	law school	WordNet_synonym
+law school	graduate school	WordNet_is-a
+law school	interest	PhraseTable_co-aligned
+law school	authority	PhraseTable_co-aligned
+law school	access	PhraseTable_co-aligned
+law school	straight	PhraseTable_co-aligned
+law school	legislation	PhraseTable_co-aligned
+law school	legal system	PhraseTable_co-aligned
+law school	application fee	PhraseTable_co-aligned
+law school	legal authority	PhraseTable_co-aligned
+law school	legal aid	PhraseTable_co-aligned
+law school	copyright owner	PhraseTable_co-aligned
+fuel oil	fuel oil	WordNet_synonym
+fuel oil	heating oil	WordNet_synonym
+fuel oil	gas oil	WordNet_is-a
+fuel oil	principal	PhraseTable_co-aligned
+fuel oil	gas	PhraseTable_co-aligned
+fuel oil	gasoline	PhraseTable_co-aligned
+fuel oil	vehicle	PhraseTable_co-aligned
+fuel oil	bunker	PhraseTable_co-aligned
+fuel oil	home heating	PhraseTable_co-aligned
+fuel oil	natural gas	PhraseTable_co-aligned
+fuel oil	air pollution	PhraseTable_co-aligned
+fuel oil	retail chain	PhraseTable_co-aligned
+fuel oil	engine failure	PhraseTable_co-aligned
+case law	precedent	WordNet_synonym
+case law	common law	WordNet_synonym
+case law	case law	WordNet_synonym
+case law	jurisprudence	WordNet_is-a
+case law	jurisprudence	PhraseTable_co-aligned
+case law	precedent	PhraseTable_co-aligned
+case law	past	PhraseTable_co-aligned
+case law	authority	PhraseTable_co-aligned
+case law	prior	PhraseTable_co-aligned
+case law	legal precedent	PhraseTable_co-aligned
+case law	judicial precedent	PhraseTable_co-aligned
+case law	judicial interpretation	PhraseTable_co-aligned
+case law	court decision	PhraseTable_co-aligned
+case law	judicial authority	PhraseTable_co-aligned
+hotel room	hotel room	WordNet_synonym
+hotel room	bedroom	WordNet_is-a
+hotel room	adjoining room	WordNet_is-a
+hotel room	lodging	PhraseTable_co-aligned
+hotel room	accommodation	PhraseTable_co-aligned
+hotel room	incident	PhraseTable_co-aligned
+hotel room	napkin	PhraseTable_co-aligned
+hotel room	premise	PhraseTable_co-aligned
+road surface	road surface	WordNet_synonym
+road surface	paved surface	WordNet_is-a
+road surface	highway	PhraseTable_co-aligned
+road surface	ledge	PhraseTable_co-aligned
+road surface	street	PhraseTable_co-aligned
+road surface	lane	PhraseTable_co-aligned
+road surface	ground	PhraseTable_co-aligned
+aircraft carrier	carrier	WordNet_synonym
+aircraft carrier	flattop	WordNet_synonym
+aircraft carrier	aircraft carrier	WordNet_synonym
+aircraft carrier	warship	WordNet_is-a
+aircraft carrier	arrester	WordNet_part-whole
+aircraft carrier	ship	PhraseTable_co-aligned
+aircraft carrier	military	PhraseTable_co-aligned
+tv station	television station	WordNet_synonym
+tv station	tv station	WordNet_synonym
+tv station	broadcasting station	WordNet_is-a
+tv station	channel	WordNet_is-a
+tv station	broadcasting studio	WordNet_part-whole
+music school	music school	WordNet_synonym
+music school	conservatory	WordNet_is-a
+square mile	square mile	WordNet_synonym
+square mile	area unit	WordNet_is-a
+square mile	section	WordNet_is-a
+training school	training school	WordNet_synonym
+training school	college	PhraseTable_co-aligned
+training school	classroom	PhraseTable_co-aligned
+training school	education	PhraseTable_co-aligned
+training school	schooling	PhraseTable_co-aligned
+training school	student	PhraseTable_co-aligned
+training school	education system	PhraseTable_co-aligned
+training school	educational system	PhraseTable_co-aligned
+training school	community college	PhraseTable_co-aligned
+training school	educational institution	PhraseTable_co-aligned
+training school	bar admission	PhraseTable_co-aligned
+attack aircraft	fighter	WordNet_synonym
+attack aircraft	fighter aircraft	WordNet_synonym
+attack aircraft	attack aircraft	WordNet_synonym
+attack aircraft	airplane	WordNet_is-a
+attack aircraft	interceptor	WordNet_is-a
+inspector general	inspector general	WordNet_synonym
+inspector general	military officer	WordNet_is-a
+inspector general	superintendent	PhraseTable_co-aligned
+inspector general	service	PhraseTable_co-aligned
+inspector general	inspection	PhraseTable_co-aligned
+inspector general	office	PhraseTable_co-aligned
+inspector general	body	PhraseTable_co-aligned
+inspector general	deputy minister	PhraseTable_co-aligned
+air pressure	pressure	WordNet_synonym
+air pressure	atmospheric pressure	WordNet_synonym
+air pressure	air pressure	WordNet_synonym
+air pressure	gas pressure	WordNet_is-a
+air pressure	barometric pressure	WordNet_is-a
+air pressure	lobby	PhraseTable_co-aligned
+air pressure	strain	PhraseTable_co-aligned
+air pressure	stress	PhraseTable_co-aligned
+air pressure	interest	PhraseTable_co-aligned
+air pressure	push	PhraseTable_co-aligned
+air pressure	dew point	PhraseTable_co-aligned
+air pressure	special interest	PhraseTable_co-aligned
+air pressure	exhaust fan	PhraseTable_co-aligned
+air pressure	flow rate	PhraseTable_co-aligned
+air pressure	great stress	PhraseTable_co-aligned
+school district	school district	WordNet_synonym
+school district	administrative district	WordNet_is-a
+school district	education	PhraseTable_co-aligned
+school district	college	PhraseTable_co-aligned
+school district	board	PhraseTable_co-aligned
+school district	community	PhraseTable_co-aligned
+cable television	cable	WordNet_synonym
+cable television	cable television	WordNet_synonym
+cable television	telecasting	WordNet_is-a
+cable television	wire	PhraseTable_co-aligned
+cable television	rope	PhraseTable_co-aligned
+cable television	distribution	PhraseTable_co-aligned
+cable television	line	PhraseTable_co-aligned
+cable television	system	PhraseTable_co-aligned
+cable television	wire rope	PhraseTable_co-aligned
+cable television	distribution system	PhraseTable_co-aligned
+cable television	tow line	PhraseTable_co-aligned
+cable television	power line	PhraseTable_co-aligned
+cable television	telecommunication service	PhraseTable_co-aligned
+data processing	data processing	WordNet_synonym
+data processing	data mining	WordNet_is-a
+data processing	execution	WordNet_part-whole
+data processing	training	PhraseTable_co-aligned
+data processing	unit	PhraseTable_co-aligned
+data processing	science	PhraseTable_co-aligned
+data processing	manufacturing	PhraseTable_co-aligned
+data processing	technology	PhraseTable_co-aligned
+data processing	computer science	PhraseTable_co-aligned
+data processing	health care	PhraseTable_co-aligned
+data processing	information technology	PhraseTable_co-aligned
+data processing	public service	PhraseTable_co-aligned
+data processing	pension plan	PhraseTable_co-aligned
+information processing	informatics	WordNet_synonym
+information processing	information science	WordNet_synonym
+information processing	information processing	WordNet_synonym
+information processing	science	WordNet_is-a
+information processing	cybernetics	WordNet_is-a
+information processing	computer science	WordNet_part-whole
+information processing	data	PhraseTable_co-aligned
+information processing	computer	PhraseTable_co-aligned
+information processing	processor	PhraseTable_co-aligned
+information processing	computing	PhraseTable_co-aligned
+information processing	handling	PhraseTable_co-aligned
+information processing	data management	PhraseTable_co-aligned
+information processing	data analysis	PhraseTable_co-aligned
+information processing	data collection	PhraseTable_co-aligned
+information processing	data entry	PhraseTable_co-aligned
+heir apparent	inheritor	WordNet_is-a
+labor union	union	WordNet_synonym
+labor union	brotherhood	WordNet_synonym
+labor union	labor union	WordNet_synonym
+labor union	trade union	WordNet_synonym
+labor union	trades union	WordNet_synonym
+labor union	organization	WordNet_is-a
+labor union	company union	WordNet_is-a
+field hockey	hockey	WordNet_synonym
+field hockey	field hockey	WordNet_synonym
+field hockey	field game	WordNet_is-a
+field hockey	shinny	WordNet_is-a
+field hockey	judo	PhraseTable_co-aligned
+field hockey	football	PhraseTable_co-aligned
+racing car	racer	WordNet_synonym
+racing car	race car	WordNet_synonym
+racing car	racing car	WordNet_synonym
+racing car	auto	WordNet_is-a
+racing car	finisher	WordNet_is-a
+racing car	cockpit	WordNet_part-whole
+production line	line	WordNet_synonym
+production line	production line	WordNet_synonym
+production line	assembly line	WordNet_synonym
+production line	mechanical system	WordNet_is-a
+production line	conveyer belt	WordNet_part-whole
+production line	chain	PhraseTable_co-aligned
+production line	stream	PhraseTable_co-aligned
+production line	cattle	PhraseTable_co-aligned
+production line	factory	PhraseTable_co-aligned
+production line	market	PhraseTable_co-aligned
+production line	supply chain	PhraseTable_co-aligned
+production line	food chain	PhraseTable_co-aligned
+programming language	programming language	WordNet_synonym
+programming language	programing language	WordNet_synonym
+programming language	artificial language	WordNet_is-a
+programming language	algorithmic language	WordNet_is-a
+programming language	computer	PhraseTable_co-aligned
+programming language	computer program	PhraseTable_co-aligned
+research laboratory	lab	WordNet_synonym
+research laboratory	laboratory	WordNet_synonym
+research laboratory	research lab	WordNet_synonym
+research laboratory	research laboratory	WordNet_synonym
+research laboratory	science lab	WordNet_synonym
+research laboratory	science laboratory	WordNet_synonym
+research laboratory	workplace	WordNet_is-a
+research laboratory	biology lab	WordNet_is-a
+research laboratory	lab bench	WordNet_part-whole
+research laboratory	lab	PhraseTable_co-aligned
+research laboratory	facility	PhraseTable_co-aligned
+research laboratory	development	PhraseTable_co-aligned
+research laboratory	researcher	PhraseTable_co-aligned
+research laboratory	science	PhraseTable_co-aligned
+research laboratory	science lab	PhraseTable_co-aligned
+research laboratory	test facility	PhraseTable_co-aligned
+research laboratory	technology centre	PhraseTable_co-aligned
+desktop computer	desktop computer	WordNet_synonym
+desktop computer	personal computer	WordNet_is-a
+desktop computer	desk	PhraseTable_co-aligned
+television show	television program	WordNet_synonym
+television show	tv program	WordNet_synonym
+television show	television show	WordNet_synonym
+television show	tv show	WordNet_synonym
+television show	broadcast	WordNet_is-a
+television show	colorcast	WordNet_is-a
+television show	program	PhraseTable_co-aligned
+television show	broadcast	PhraseTable_co-aligned
+television show	cbc	PhraseTable_co-aligned
+television show	film	PhraseTable_co-aligned
+film making	moviemaking	WordNet_synonym
+film making	movie making	WordNet_synonym
+film making	film making	WordNet_synonym
+film making	devising	WordNet_is-a
+piano player	pianist	WordNet_synonym
+piano player	piano player	WordNet_synonym
+piano player	musician	WordNet_is-a
+advertising campaign	advertising campaign	WordNet_synonym
+advertising campaign	ad campaign	WordNet_synonym
+advertising campaign	ad blitz	WordNet_synonym
+advertising campaign	cause	WordNet_is-a
+advertising campaign	public-relations campaign	WordNet_is-a
+advertising campaign	advertisement	PhraseTable_co-aligned
+advertising campaign	ad	PhraseTable_co-aligned
+advertising campaign	marketing	PhraseTable_co-aligned
+advertising campaign	publicity	PhraseTable_co-aligned
+advertising campaign	promotion	PhraseTable_co-aligned
+television channel	channel	WordNet_synonym
+television channel	television channel	WordNet_synonym
+television channel	tv channel	WordNet_synonym
+television channel	television station	WordNet_is-a
+television channel	network	PhraseTable_co-aligned
+television channel	broadcaster	PhraseTable_co-aligned
+television channel	cable	PhraseTable_co-aligned
+sound recording	audio	WordNet_synonym
+sound recording	sound recording	WordNet_synonym
+sound recording	audio recording	WordNet_synonym
+sound recording	audiotape	WordNet_is-a
+sound recording	registry	PhraseTable_co-aligned
+sound recording	register	PhraseTable_co-aligned
+sound recording	tape	PhraseTable_co-aligned
+sound recording	record	PhraseTable_co-aligned
+sound recording	title	PhraseTable_co-aligned
+sound recording	land registry	PhraseTable_co-aligned
+sound recording	registration process	PhraseTable_co-aligned
+sound recording	registration system	PhraseTable_co-aligned
+sound recording	registered party	PhraseTable_co-aligned
+sound recording	charitable status	PhraseTable_co-aligned
+railway line	railway	WordNet_synonym
+railway line	railroad	WordNet_synonym
+railway line	railroad line	WordNet_synonym
+railway line	railway line	WordNet_synonym
+railway line	railway system	WordNet_synonym
+railway line	cable railway	WordNet_is-a
+railway line	rail	PhraseTable_co-aligned
+railway line	track	PhraseTable_co-aligned
+railway line	loop	PhraseTable_co-aligned
+railway line	day	PhraseTable_co-aligned
+railway line	end	PhraseTable_co-aligned
+railway line	passenger rail	PhraseTable_co-aligned
+railway line	airline transport	PhraseTable_co-aligned
+railway line	web site	PhraseTable_co-aligned
+railway line	rail track	PhraseTable_co-aligned
+railway line	rail system	PhraseTable_co-aligned
+committee member	committee member	WordNet_synonym
+committee member	fellow member	WordNet_is-a
+committee member	committeeman	WordNet_is-a
+committee member	commission	WordNet_part-whole
+committee member	part	PhraseTable_co-aligned
+committee member	person	PhraseTable_co-aligned
+committee member	council	PhraseTable_co-aligned
+committee member	group	PhraseTable_co-aligned
+committee member	meeting	PhraseTable_co-aligned
+committee member	review panel	PhraseTable_co-aligned
+committee member	working group	PhraseTable_co-aligned
+committee member	task force	PhraseTable_co-aligned
+committee member	advisory board	PhraseTable_co-aligned
+committee member	advisory panel	PhraseTable_co-aligned
+night club	cabaret	WordNet_synonym
+night club	nightclub	WordNet_synonym
+night club	club	WordNet_synonym
+night club	nightspot	WordNet_synonym
+night club	night club	WordNet_synonym
+night club	spot	WordNet_is-a
+night club	honkytonk	WordNet_is-a
+air forces	airforce	WordNet_synonym
+air forces	air force	WordNet_synonym
+air forces	military service	WordNet_is-a
+air forces	air corps	WordNet_is-a
+air forces	aircraft	PhraseTable_co-aligned
+air forces	flying	PhraseTable_co-aligned
+air forces	airline	PhraseTable_co-aligned
+air forces	force	PhraseTable_co-aligned
+air forces	flight	PhraseTable_co-aligned
+air forces	aviation industry	PhraseTable_co-aligned
+air forces	aviation community	PhraseTable_co-aligned
+air forces	squadron leader	PhraseTable_co-aligned
+air forces	maple leaf	PhraseTable_co-aligned
+air forces	aviation sector	PhraseTable_co-aligned
+ground level	grade	WordNet_synonym
+ground level	ground level	WordNet_synonym
+ground level	elevation	WordNet_is-a
+ground level	database	PhraseTable_co-aligned
+ground level	floor	PhraseTable_co-aligned
+ground level	site	PhraseTable_co-aligned
+ground level	fundamental	PhraseTable_co-aligned
+ground level	background	PhraseTable_co-aligned
+ground level	main floor	PhraseTable_co-aligned
+ground level	grass root	PhraseTable_co-aligned
+ground level	basic service	PhraseTable_co-aligned
+ground level	front line	PhraseTable_co-aligned
+ground level	starting point	PhraseTable_co-aligned
+passenger train	passenger train	WordNet_synonym
+passenger train	railroad train	WordNet_is-a
+passenger train	bullet train	WordNet_is-a
+passenger train	couchette	WordNet_part-whole
+passenger train	rail	PhraseTable_co-aligned
+passenger train	eastward	PhraseTable_co-aligned
+passenger train	westward	PhraseTable_co-aligned
+passenger train	operation	PhraseTable_co-aligned
+passenger train	railway	PhraseTable_co-aligned
+passenger train	rail service	PhraseTable_co-aligned
+satellite television	satellite television	WordNet_synonym
+satellite television	satellite tv	WordNet_synonym
+satellite television	television system	WordNet_is-a
+satellite television	cable	PhraseTable_co-aligned
+hospital care	hospitalization	WordNet_synonym
+hospital care	hospitalisation	WordNet_synonym
+hospital care	hospital care	WordNet_synonym
+hospital care	medical care	WordNet_is-a
+hospital care	delivery	PhraseTable_co-aligned
+hospital care	hospitalization	PhraseTable_co-aligned
+hospital care	nursing	PhraseTable_co-aligned
+hospital care	treatment	PhraseTable_co-aligned
+pressure level	pressure	WordNet_synonym
+pressure level	pressure level	WordNet_synonym
+pressure level	physical phenomenon	WordNet_is-a
+pressure level	blood pressure	WordNet_is-a
+day school	day school	WordNet_synonym
+day school	private school	WordNet_is-a
+team sport	team sport	WordNet_synonym
+team sport	athletics	WordNet_is-a
+software systems	software	WordNet_synonym
+software systems	package	WordNet_synonym
+software systems	software program	WordNet_synonym
+software systems	computer software	WordNet_synonym
+software systems	software system	WordNet_synonym
+software systems	software package	WordNet_synonym
+software systems	code	WordNet_is-a
+software systems	alpha software	WordNet_is-a
+software systems	product	PhraseTable_co-aligned
+software systems	application	PhraseTable_co-aligned
+software systems	program	PhraseTable_co-aligned
+software systems	computer	PhraseTable_co-aligned
+software systems	source	PhraseTable_co-aligned
+software systems	computer program	PhraseTable_co-aligned
+software systems	computer programming	PhraseTable_co-aligned
+software systems	computer application	PhraseTable_co-aligned
+software systems	existing computer	PhraseTable_co-aligned
+software systems	industrial machinery	PhraseTable_co-aligned
+radio station	radio station	WordNet_synonym
+radio station	broadcasting station	WordNet_is-a
+radio station	radio beacon	WordNet_is-a
+radio station	broadcasting studio	WordNet_part-whole
+radio station	plant	PhraseTable_co-aligned
+radio station	broadcasting	PhraseTable_co-aligned
+radio station	site	PhraseTable_co-aligned
+radio station	facility	PhraseTable_co-aligned
+radio station	programming	PhraseTable_co-aligned
+radio station	treatment plant	PhraseTable_co-aligned
+radio station	television programming	PhraseTable_co-aligned
+radio station	community programming	PhraseTable_co-aligned
+radio station	ski area	PhraseTable_co-aligned
+radio station	broadcasting system	PhraseTable_co-aligned
+business community	businessmen	WordNet_synonym
+business community	business community	WordNet_synonym
+business community	profession	WordNet_is-a
+business community	matter	PhraseTable_co-aligned
+business community	private	PhraseTable_co-aligned
+business community	industry	PhraseTable_co-aligned
+business community	venture	PhraseTable_co-aligned
+business community	contractor	PhraseTable_co-aligned
+business community	private industry	PhraseTable_co-aligned
+business community	corporate sector	PhraseTable_co-aligned
+business community	corporate world	PhraseTable_co-aligned
+business community	private practice	PhraseTable_co-aligned
+business community	private enterprise	PhraseTable_co-aligned
+adult male	man	WordNet_synonym
+adult male	adult male	WordNet_synonym
+adult male	grownup	WordNet_is-a
+adult male	adonis	WordNet_is-a
+adult male	man's body	WordNet_part-whole
+adult male	men	PhraseTable_co-aligned
+adult male	population	PhraseTable_co-aligned
+adult male	grown man	PhraseTable_co-aligned
+building block	unit	WordNet_synonym
+building block	building block	WordNet_synonym
+building block	thing	WordNet_is-a
+building block	chain	WordNet_is-a
+building block	part	WordNet_part-whole
+building block	aspect	PhraseTable_co-aligned
+building block	feature	PhraseTable_co-aligned
+building block	core	PhraseTable_co-aligned
+building block	piece	PhraseTable_co-aligned
+building block	class	PhraseTable_co-aligned
+building block	core component	PhraseTable_co-aligned
+building block	integral part	PhraseTable_co-aligned
+building block	basic core	PhraseTable_co-aligned
+building block	component part	PhraseTable_co-aligned
+building block	integral component	PhraseTable_co-aligned
+horseback riding	riding	WordNet_synonym
+horseback riding	equitation	WordNet_synonym
+horseback riding	horseback riding	WordNet_synonym
+horseback riding	sport	WordNet_is-a
+horseback riding	equestrian sport	WordNet_is-a
+horseback riding	horse	PhraseTable_co-aligned
+horseback riding	equestrian	PhraseTable_co-aligned
+horseback riding	equitation	PhraseTable_co-aligned
+horseback riding	rider	PhraseTable_co-aligned
+horseback riding	cycling	PhraseTable_co-aligned
+source language	source language	WordNet_synonym
+source language	linguistic communication	WordNet_is-a
+source language	application-oriented language	WordNet_is-a
+field crop	field crop	WordNet_synonym
+field crop	field corn	WordNet_is-a
+field crop	grain	PhraseTable_co-aligned
+field crop	land	PhraseTable_co-aligned
+field crop	plant	PhraseTable_co-aligned
+field crop	agriculture	PhraseTable_co-aligned
+field crop	farm	PhraseTable_co-aligned
+field crop	pest management	PhraseTable_co-aligned
+frying pan	frypan	WordNet_synonym
+frying pan	skillet	WordNet_synonym
+frying pan	frying pan	WordNet_synonym
+frying pan	cooking pan	WordNet_is-a
+frying pan	spider	WordNet_is-a
+frying pan	handle	WordNet_part-whole
+power system	grid	WordNet_synonym
+power system	power system	WordNet_synonym
+power system	power grid	WordNet_synonym
+power system	facility	WordNet_is-a
+power system	electric main	WordNet_part-whole
+power system	grid	PhraseTable_co-aligned
+power system	electricity	PhraseTable_co-aligned
+power system	distribution	PhraseTable_co-aligned
+power system	electric	PhraseTable_co-aligned
+power system	network	PhraseTable_co-aligned
+power system	electrical grid	PhraseTable_co-aligned
+power system	electrical network	PhraseTable_co-aligned
+power system	electricity grid	PhraseTable_co-aligned
+power system	electric grid	PhraseTable_co-aligned
+power system	electricity network	PhraseTable_co-aligned
+support system	support system	WordNet_synonym
+support system	network	WordNet_is-a
+support system	service	PhraseTable_co-aligned
+support system	maintenance	PhraseTable_co-aligned
+support system	assist	PhraseTable_co-aligned
+support system	sustainment	PhraseTable_co-aligned
+support system	backing	PhraseTable_co-aligned
+support system	assistance program	PhraseTable_co-aligned
+support system	supportive environment	PhraseTable_co-aligned
+support system	safety net	PhraseTable_co-aligned
+support system	financial assistance	PhraseTable_co-aligned
+support system	supportive role	PhraseTable_co-aligned
+pressure gauge	pressure gauge	WordNet_synonym
+pressure gauge	pressure gage	WordNet_synonym
+pressure gauge	gage	WordNet_is-a
+pressure gauge	manometer	WordNet_is-a
+pressure gauge	manometer	PhraseTable_co-aligned
+pressure gauge	dead	PhraseTable_co-aligned
+pressure gauge	meter	PhraseTable_co-aligned
+pressure gauge	pipe	PhraseTable_co-aligned
+police chief	captain	WordNet_synonym
+police chief	police captain	WordNet_synonym
+police chief	police chief	WordNet_synonym
+police chief	policeman	WordNet_is-a
+police chief	chief constable	WordNet_is-a
+police chief	superintendent	PhraseTable_co-aligned
+police chief	commissioner	PhraseTable_co-aligned
+police chief	inspector	PhraseTable_co-aligned
+money laundering	money laundering	WordNet_synonym
+money laundering	concealment	WordNet_is-a
+money laundering	reference	PhraseTable_co-aligned
+money laundering	trade	PhraseTable_co-aligned
+money laundering	recycling	PhraseTable_co-aligned
+money laundering	traffic	PhraseTable_co-aligned
+money laundering	staff	PhraseTable_co-aligned
+money laundering	international trade	PhraseTable_co-aligned
+money laundering	income tax	PhraseTable_co-aligned
+money laundering	prime minister	PhraseTable_co-aligned
+money laundering	climate change	PhraseTable_co-aligned
+money laundering	sustainable development	PhraseTable_co-aligned
+graduate students	postgraduate	WordNet_synonym
+graduate students	graduate student	WordNet_synonym
+graduate students	grad student	WordNet_synonym
+graduate students	collegian	WordNet_is-a
+graduate students	people	PhraseTable_co-aligned
+graduate students	degree	PhraseTable_co-aligned
+graduate students	program	PhraseTable_co-aligned
+graduate students	school	PhraseTable_co-aligned
+graduate students	study	PhraseTable_co-aligned
+graduate students	student body	PhraseTable_co-aligned
+graduate students	student population	PhraseTable_co-aligned
+graduate students	graduating class	PhraseTable_co-aligned
+graduate students	student loan	PhraseTable_co-aligned
+graduate students	university student	PhraseTable_co-aligned
+home run	homer	WordNet_synonym
+home run	home run	WordNet_synonym
+home run	base hit	WordNet_is-a
+home run	solo homer	WordNet_is-a
+fashion designer	couturier	WordNet_synonym
+fashion designer	designer	WordNet_synonym
+fashion designer	fashion designer	WordNet_synonym
+fashion designer	clothes designer	WordNet_synonym
+fashion designer	creator	WordNet_is-a
+fashion designer	costumier	WordNet_is-a
+theater stage	theater stage	WordNet_synonym
+theater stage	theatre stage	WordNet_synonym
+theater stage	boards	WordNet_is-a
+theater stage	downstage	WordNet_part-whole
+service road	frontage road	WordNet_synonym
+service road	service road	WordNet_synonym
+service road	local road	WordNet_is-a
+tape recording	tape	WordNet_synonym
+tape recording	taping	WordNet_synonym
+tape recording	tape recording	WordNet_synonym
+tape recording	audiotape	WordNet_is-a
+tape recording	recorder	PhraseTable_co-aligned
+tape recording	videotape	PhraseTable_co-aligned
+tape recording	firearm	PhraseTable_co-aligned
+tape recording	form	PhraseTable_co-aligned
+tape recording	audio	PhraseTable_co-aligned
+tape recording	registration process	PhraseTable_co-aligned
+tape recording	land registry	PhraseTable_co-aligned
+tape recording	registration system	PhraseTable_co-aligned
+tape recording	registered party	PhraseTable_co-aligned
+tape recording	charitable status	PhraseTable_co-aligned
+horse racing	horse racing	WordNet_synonym
+horse racing	thoroughbred racing	WordNet_is-a
+horse racing	racetrack	PhraseTable_co-aligned
+horse racing	racehorse	PhraseTable_co-aligned
+horse racing	race	PhraseTable_co-aligned
+horse racing	running	PhraseTable_co-aligned
+horse racing	race track	PhraseTable_co-aligned
+percentage point	point	WordNet_synonym
+percentage point	decimal point	WordNet_synonym
+percentage point	percentage point	WordNet_synonym
+percentage point	mathematical notation	WordNet_is-a
+percentage point	rate	PhraseTable_co-aligned
+percentage point	place	PhraseTable_co-aligned
+percentage point	position	PhraseTable_co-aligned
+percentage point	number	PhraseTable_co-aligned
+percentage point	cent	PhraseTable_co-aligned
+percentage point	item number	PhraseTable_co-aligned
+percentage point	record straight	PhraseTable_co-aligned
+percentage point	percent increase	PhraseTable_co-aligned
+percentage point	percent share	PhraseTable_co-aligned
+percentage point	percent range	PhraseTable_co-aligned
+board member	board member	WordNet_synonym
+board member	fellow member	WordNet_is-a
+board member	advice	PhraseTable_co-aligned
+board member	membership	PhraseTable_co-aligned
+board member	director	PhraseTable_co-aligned
+board member	officer	PhraseTable_co-aligned
+board member	administrator	PhraseTable_co-aligned
+board member	governing council	PhraseTable_co-aligned
+board member	council office	PhraseTable_co-aligned
+board member	executive director	PhraseTable_co-aligned
+board member	advisory council	PhraseTable_co-aligned
+board member	research council	PhraseTable_co-aligned
+school teacher	schoolteacher	WordNet_synonym
+school teacher	school teacher	WordNet_synonym
+school teacher	instructor	WordNet_is-a
+school teacher	games-master	WordNet_is-a
+school teacher	instructor	PhraseTable_co-aligned
+school teacher	faculty	PhraseTable_co-aligned
+school teacher	professor	PhraseTable_co-aligned
+school teacher	educator	PhraseTable_co-aligned
+school teacher	teach	PhraseTable_co-aligned
+school teacher	faculty member	PhraseTable_co-aligned
+school teacher	acid rain	PhraseTable_co-aligned
+school teacher	teaching faculty	PhraseTable_co-aligned
+school teacher	teaching position	PhraseTable_co-aligned
+school teacher	teaching profession	PhraseTable_co-aligned
+sailing ship	sailing vessel	WordNet_synonym
+sailing ship	sailing ship	WordNet_synonym
+sailing ship	vessel	WordNet_is-a
+sailing ship	bark	WordNet_is-a
+sailing ship	boom	WordNet_part-whole
+sailing ship	vessel	PhraseTable_co-aligned
+sailing ship	yacht	PhraseTable_co-aligned
+sailing ship	sail	PhraseTable_co-aligned
+sailing ship	clipper	PhraseTable_co-aligned
+sailing ship	ocean	PhraseTable_co-aligned
+sailing ship	sail boat	PhraseTable_co-aligned
+stock company	stock company	WordNet_synonym
+stock company	business	PhraseTable_co-aligned
+stock company	incorporation	PhraseTable_co-aligned
+stock company	form	PhraseTable_co-aligned
+stock company	share	PhraseTable_co-aligned
+stock company	sole	PhraseTable_co-aligned
+stock company	business corporation	PhraseTable_co-aligned
+stock company	corporate law	PhraseTable_co-aligned
+toll road	turnpike	WordNet_synonym
+toll road	toll road	WordNet_synonym
+toll road	expressway	WordNet_is-a
+work day	workday	WordNet_synonym
+work day	working day	WordNet_synonym
+work day	work day	WordNet_synonym
+work day	weekday	WordNet_is-a
+work day	hour	PhraseTable_co-aligned
+work day	homework	PhraseTable_co-aligned
+work day	role	PhraseTable_co-aligned
+work day	thing	PhraseTable_co-aligned
+work day	function	PhraseTable_co-aligned
+work day	working group	PhraseTable_co-aligned
+work day	labour force	PhraseTable_co-aligned
+work day	labour market	PhraseTable_co-aligned
+work day	task force	PhraseTable_co-aligned
+work day	occupational health	PhraseTable_co-aligned
+nursing home	home	WordNet_synonym
+nursing home	nursing home	WordNet_synonym
+nursing home	rest home	WordNet_synonym
+nursing home	institution	WordNet_is-a
+nursing home	household	PhraseTable_co-aligned
+nursing home	fireplace	PhraseTable_co-aligned
+nursing home	foyer	PhraseTable_co-aligned
+nursing home	house	PhraseTable_co-aligned
+nursing home	nurse	PhraseTable_co-aligned
+nursing home	focal point	PhraseTable_co-aligned
+nursing home	health care	PhraseTable_co-aligned
+nursing home	fire pit	PhraseTable_co-aligned
+nursing home	household level	PhraseTable_co-aligned
+nursing home	safe house	PhraseTable_co-aligned
+council member	councillor	WordNet_synonym
+council member	council member	WordNet_synonym
+council member	fellow member	WordNet_is-a
+council member	councilman	WordNet_is-a
+council member	director	PhraseTable_co-aligned
+council member	board	PhraseTable_co-aligned
+council member	councillor	PhraseTable_co-aligned
+council member	trustee	PhraseTable_co-aligned
+council member	person	PhraseTable_co-aligned
+council member	board director	PhraseTable_co-aligned
+council member	chair person	PhraseTable_co-aligned
+council member	board trustee	PhraseTable_co-aligned
+council member	scientific director	PhraseTable_co-aligned
+business news	business news	WordNet_synonym
+business news	newsletter	PhraseTable_co-aligned
+bus service	bus company	WordNet_synonym
+bus service	bus service	WordNet_synonym
+bus service	transportation company	WordNet_is-a
+cassette tape	cassette tape	WordNet_synonym
+cassette tape	magnetic tape	WordNet_is-a
+club member	club member	WordNet_synonym
+club member	fellow member	WordNet_is-a
+club member	social club	WordNet_part-whole
+business card	business card	WordNet_synonym
+business card	identity card	WordNet_is-a
+radio frequency	radio frequency	WordNet_synonym
+radio frequency	frequence	WordNet_is-a
+radio frequency	high frequency	WordNet_is-a
+radio frequency	rate	PhraseTable_co-aligned
+radio frequency	band	PhraseTable_co-aligned
+radio frequency	channel	PhraseTable_co-aligned
+radio frequency	interval	PhraseTable_co-aligned
+radio frequency	assignment	PhraseTable_co-aligned
+radio frequency	spectrum allocation	PhraseTable_co-aligned
+radio frequency	spectrum management	PhraseTable_co-aligned
+radio frequency	band plan	PhraseTable_co-aligned
+radio frequency	broadband internet	PhraseTable_co-aligned
+radio frequency	magnetic field	PhraseTable_co-aligned
+sheet music	sheet music	WordNet_synonym
+sheet music	musical composition	WordNet_is-a
+sheet music	lead sheet	WordNet_is-a
+news media	journalism	WordNet_synonym
+news media	news media	WordNet_synonym
+news media	print media	WordNet_is-a
+news media	fleet street	WordNet_is-a
+news media	format	PhraseTable_co-aligned
+news media	newspaper	PhraseTable_co-aligned
+news media	urge	PhraseTable_co-aligned
+news media	release	PhraseTable_co-aligned
+news media	coverage	PhraseTable_co-aligned
+news media	press release	PhraseTable_co-aligned
+news media	press secretary	PhraseTable_co-aligned
+news media	press coverage	PhraseTable_co-aligned
+news media	printing press	PhraseTable_co-aligned
+news media	press conference	PhraseTable_co-aligned
+language teaching	language teaching	WordNet_synonym
+language teaching	instruction	WordNet_is-a
+language teaching	custom	PhraseTable_co-aligned
+language teaching	education	PhraseTable_co-aligned
+language teaching	curriculum	PhraseTable_co-aligned
+language teaching	training	PhraseTable_co-aligned
+pack ice	pack ice	WordNet_synonym
+pack ice	ice pack	WordNet_synonym
+pack ice	floe	PhraseTable_co-aligned
+pack ice	fast	PhraseTable_co-aligned
+pack ice	drift	PhraseTable_co-aligned
+pack ice	sea	PhraseTable_co-aligned
+pack ice	concentration	PhraseTable_co-aligned
+community college	community college	WordNet_synonym
+community college	junior college	WordNet_is-a
+community college	school	PhraseTable_co-aligned
+community college	colleague	PhraseTable_co-aligned
+community college	university	PhraseTable_co-aligned
+community college	centre	PhraseTable_co-aligned
+community college	board	PhraseTable_co-aligned
+community college	high school	PhraseTable_co-aligned
+community college	job interview	PhraseTable_co-aligned
+community college	continuing education	PhraseTable_co-aligned
+community college	business school	PhraseTable_co-aligned
+community college	language school	PhraseTable_co-aligned
+land development	land development	WordNet_synonym
+land development	exploitation	WordNet_is-a
+land development	planning	PhraseTable_co-aligned
+land development	landscape	PhraseTable_co-aligned
+land development	territory	PhraseTable_co-aligned
+land development	cree	PhraseTable_co-aligned
+land development	management	PhraseTable_co-aligned
+land development	regional planning	PhraseTable_co-aligned
+land development	resource management	PhraseTable_co-aligned
+land development	local planning	PhraseTable_co-aligned
+land development	physical planning	PhraseTable_co-aligned
+land development	planning act	PhraseTable_co-aligned
+cancer cell	cancer cell	WordNet_synonym
+cancer cell	neoplastic cell	WordNet_is-a
+cancer cell	tumor	PhraseTable_co-aligned
+family business	family business	WordNet_synonym
+family business	closed corporation	WordNet_is-a
+family business	mom	PhraseTable_co-aligned
+family business	farm	PhraseTable_co-aligned
+family business	company	PhraseTable_co-aligned
+family business	enterprise	PhraseTable_co-aligned
+family business	offer	PhraseTable_co-aligned
+family business	cottage industry	PhraseTable_co-aligned
+pipe organ	organ	WordNet_synonym
+pipe organ	pipe organ	WordNet_synonym
+pipe organ	keyboard instrument	WordNet_is-a
+pipe organ	keyboard	WordNet_part-whole
+data communications	digital communication	WordNet_synonym
+data communications	data communication	WordNet_synonym
+data communications	electronic communication	WordNet_is-a
+data communications	reporting	PhraseTable_co-aligned
+data communications	transmission	PhraseTable_co-aligned
+data communications	information	PhraseTable_co-aligned
+data communications	carrier	PhraseTable_co-aligned
+data communications	communication	PhraseTable_co-aligned
+data communications	transmission capacity	PhraseTable_co-aligned
+data communications	digital transmission	PhraseTable_co-aligned
+glass fibre	optical fiber	WordNet_synonym
+glass fibre	glass fiber	WordNet_synonym
+glass fibre	optical fibre	WordNet_synonym
+glass fibre	glass fibre	WordNet_synonym
+glass fibre	fiber	WordNet_is-a
+glass fibre	fiberglass	PhraseTable_co-aligned
+glass fibre	fibreglass	PhraseTable_co-aligned
+glass fibre	travel	PhraseTable_co-aligned
+glass fibre	quarterly	PhraseTable_co-aligned
+glass fibre	plastic	PhraseTable_co-aligned
+glass fibre	metal processing	PhraseTable_co-aligned
+side entrance	side door	WordNet_synonym
+side entrance	side entrance	WordNet_synonym
+side entrance	exterior door	WordNet_is-a
+time lag	delay	WordNet_synonym
+time lag	hold	WordNet_synonym
+time lag	postponement	WordNet_synonym
+time lag	wait	WordNet_synonym
+time lag	time lag	WordNet_synonym
+time lag	pause	WordNet_is-a
+time lag	extension	WordNet_is-a
+time lag	limitation	PhraseTable_co-aligned
+time lag	timeliness	PhraseTable_co-aligned
+time lag	length	PhraseTable_co-aligned
+time lag	gap	PhraseTable_co-aligned
+time lag	offset	PhraseTable_co-aligned
+time lag	prescribed period	PhraseTable_co-aligned
+time lag	waiting period	PhraseTable_co-aligned
+time lag	notice period	PhraseTable_co-aligned
+time lag	grace period	PhraseTable_co-aligned
+time lag	due date	PhraseTable_co-aligned
+data file	file	WordNet_synonym
+data file	data file	WordNet_synonym
+data file	record	WordNet_is-a
+data file	computer file	WordNet_is-a
+data file	record	PhraseTable_co-aligned
+data file	custom	PhraseTable_co-aligned
+data file	index	PhraseTable_co-aligned
+data file	survey	PhraseTable_co-aligned
+data file	cycle	PhraseTable_co-aligned
+card game	cards	WordNet_synonym
+card game	card game	WordNet_synonym
+card game	all fours	WordNet_is-a
+card game	call	WordNet_part-whole
+spring water	ground water	WordNet_synonym
+spring water	spring water	WordNet_synonym
+spring water	well water	WordNet_synonym
+spring water	h2o	WordNet_is-a
+spring water	source	PhraseTable_co-aligned
+group therapy	group therapy	WordNet_synonym
+group therapy	group psychotherapy	WordNet_synonym
+group therapy	psychotherapy	WordNet_is-a
+group therapy	family therapy	WordNet_is-a
+group therapy	psychotherapy	PhraseTable_co-aligned
+arms control	arms control	WordNet_synonym
+arms control	limitation	WordNet_is-a
+arms control	firearm	PhraseTable_co-aligned
+arms control	arm	PhraseTable_co-aligned
+arms control	weapon	PhraseTable_co-aligned
+arms control	gun	PhraseTable_co-aligned
+arms control	regulation	PhraseTable_co-aligned
+panel discussion	panel discussion	WordNet_synonym
+panel discussion	give-and-take	WordNet_is-a
+panel discussion	conversation	PhraseTable_co-aligned
+panel discussion	talk	PhraseTable_co-aligned
+panel discussion	dialogue	PhraseTable_co-aligned
+panel discussion	issue	PhraseTable_co-aligned
+panel discussion	forum	PhraseTable_co-aligned
+panel discussion	focus group	PhraseTable_co-aligned
+panel discussion	hall meeting	PhraseTable_co-aligned
+panel discussion	town hall	PhraseTable_co-aligned
+panel discussion	task force	PhraseTable_co-aligned
+panel discussion	working group	PhraseTable_co-aligned
+cartoon strip	strip	WordNet_synonym
+cartoon strip	funnies	WordNet_synonym
+cartoon strip	comic strip	WordNet_synonym
+cartoon strip	cartoon strip	WordNet_synonym
+cartoon strip	sketch	WordNet_is-a
+cartoon strip	frame	WordNet_part-whole
+television news	television news	WordNet_synonym
+television news	news program	WordNet_is-a
+television news	newscast	PhraseTable_co-aligned
+traffic light	stoplight	WordNet_synonym
+traffic light	traffic light	WordNet_synonym
+traffic light	traffic signal	WordNet_synonym
+traffic light	green light	WordNet_is-a
+traffic light	signal	PhraseTable_co-aligned
+traffic light	intersection	PhraseTable_co-aligned
+fishing line	fishing line	WordNet_synonym
+fishing line	cord	WordNet_is-a
+fishing line	handline	WordNet_is-a
+fishing line	fishing gear	WordNet_part-whole
+management control	management control	WordNet_synonym
+management control	internal control	WordNet_is-a
+management control	audit	PhraseTable_co-aligned
+management control	performance	PhraseTable_co-aligned
+management control	risk	PhraseTable_co-aligned
+management control	policy	PhraseTable_co-aligned
+management control	travel	PhraseTable_co-aligned
+management control	internal audit	PhraseTable_co-aligned
+work time	work time	WordNet_synonym
+work time	time period	WordNet_is-a
+work time	day	WordNet_is-a
+work time	thing	PhraseTable_co-aligned
+work time	role	PhraseTable_co-aligned
+work time	function	PhraseTable_co-aligned
+work time	homework	PhraseTable_co-aligned
+work time	performance	PhraseTable_co-aligned
+work time	working group	PhraseTable_co-aligned
+work time	labour market	PhraseTable_co-aligned
+work time	labour force	PhraseTable_co-aligned
+work time	task force	PhraseTable_co-aligned
+work time	occupational health	PhraseTable_co-aligned
+film noir	movie	WordNet_is-a
+phase transition	phase change	WordNet_synonym
+phase transition	phase transition	WordNet_synonym
+phase transition	state change	WordNet_synonym
+phase transition	physical change	WordNet_synonym
+phase transition	natural process	WordNet_is-a
+phase transition	freeze	WordNet_is-a
+square inch	square inch	WordNet_synonym
+square inch	sq in	WordNet_synonym
+square inch	area unit	WordNet_is-a
+square inch	derailment	PhraseTable_co-aligned
+square inch	mile	PhraseTable_co-aligned
+video recording	video	WordNet_synonym
+video recording	video recording	WordNet_synonym
+video recording	videocassette	WordNet_is-a
+video recording	videotape	PhraseTable_co-aligned
+video recording	filming	PhraseTable_co-aligned
+video recording	tape	PhraseTable_co-aligned
+video recording	camera	PhraseTable_co-aligned
+video recording	evidence	PhraseTable_co-aligned
+video recording	audio tape	PhraseTable_co-aligned
+executive council	executive council	WordNet_synonym
+executive council	cabinet	PhraseTable_co-aligned
+executive council	government	PhraseTable_co-aligned
+executive council	board	PhraseTable_co-aligned
+executive council	association	PhraseTable_co-aligned
+executive council	committee	PhraseTable_co-aligned
+executive council	advisory committee	PhraseTable_co-aligned
+ball game	ballgame	WordNet_synonym
+ball game	ball game	WordNet_synonym
+ball game	field game	WordNet_is-a
+ball game	baseball	WordNet_is-a
+access road	access road	WordNet_synonym
+access road	slip road	WordNet_synonym
+access road	route	WordNet_is-a
+access road	path	PhraseTable_co-aligned
+access road	route	PhraseTable_co-aligned
+access road	gateway	PhraseTable_co-aligned
+access road	driveway	PhraseTable_co-aligned
+access road	roadway	PhraseTable_co-aligned
+access road	lead track	PhraseTable_co-aligned
+access road	entry point	PhraseTable_co-aligned
+access road	line service	PhraseTable_co-aligned
+power grid	grid	WordNet_synonym
+power grid	power system	WordNet_synonym
+power grid	power grid	WordNet_synonym
+power grid	facility	WordNet_is-a
+power grid	electric main	WordNet_part-whole
+power grid	electricity	PhraseTable_co-aligned
+power grid	system	PhraseTable_co-aligned
+power grid	electric	PhraseTable_co-aligned
+power grid	network	PhraseTable_co-aligned
+power grid	distribution	PhraseTable_co-aligned
+power grid	electricity system	PhraseTable_co-aligned
+power grid	electrical system	PhraseTable_co-aligned
+power grid	electrical network	PhraseTable_co-aligned
+power grid	electric system	PhraseTable_co-aligned
+power grid	electricity network	PhraseTable_co-aligned
+science laboratory	lab	WordNet_synonym
+science laboratory	laboratory	WordNet_synonym
+science laboratory	research lab	WordNet_synonym
+science laboratory	research laboratory	WordNet_synonym
+science laboratory	science lab	WordNet_synonym
+science laboratory	science laboratory	WordNet_synonym
+science laboratory	workplace	WordNet_is-a
+science laboratory	biology lab	WordNet_is-a
+science laboratory	lab bench	WordNet_part-whole
+adult female	woman	WordNet_synonym
+adult female	adult female	WordNet_synonym
+adult female	grownup	WordNet_is-a
+adult female	amazon	WordNet_is-a
+adult female	woman's body	WordNet_part-whole
+adult female	woman	PhraseTable_co-aligned
+adult female	population	PhraseTable_co-aligned
+adult female	survey	PhraseTable_co-aligned
+dress uniform	dress uniform	WordNet_synonym
+dress uniform	military uniform	WordNet_is-a
+dress uniform	dress blues	WordNet_is-a
+business enterprise	business	WordNet_synonym
+business enterprise	commercial enterprise	WordNet_synonym
+business enterprise	business enterprise	WordNet_synonym
+business enterprise	commerce	WordNet_is-a
+business enterprise	advertising	WordNet_is-a
+business enterprise	business activity	WordNet_part-whole
+business enterprise	sole	PhraseTable_co-aligned
+business enterprise	executive	PhraseTable_co-aligned
+business enterprise	facility	PhraseTable_co-aligned
+business enterprise	establishment	PhraseTable_co-aligned
+business enterprise	entrepreneur	PhraseTable_co-aligned
+business enterprise	corporate sector	PhraseTable_co-aligned
+business enterprise	private sector	PhraseTable_co-aligned
+business enterprise	commercial venture	PhraseTable_co-aligned
+business enterprise	common carrier	PhraseTable_co-aligned
+business enterprise	commercial operation	PhraseTable_co-aligned
+branch line	spur	WordNet_synonym
+branch line	branch line	WordNet_synonym
+branch line	spur track	WordNet_synonym
+branch line	railway line	WordNet_is-a
+branch line	loop-line	WordNet_is-a
+branch line	loop	PhraseTable_co-aligned
+branch line	day	PhraseTable_co-aligned
+branch line	end	PhraseTable_co-aligned
+branch line	spur	PhraseTable_co-aligned
+branch line	mark	PhraseTable_co-aligned
+branch line	airline transport	PhraseTable_co-aligned
+branch line	web site	PhraseTable_co-aligned
+branch line	spur track	PhraseTable_co-aligned
+branch line	water mark	PhraseTable_co-aligned
+branch line	online environment	PhraseTable_co-aligned
+school board	school board	WordNet_synonym
+school board	academic	PhraseTable_co-aligned
+school board	education	PhraseTable_co-aligned
+school board	student	PhraseTable_co-aligned
+school board	grade	PhraseTable_co-aligned
+school board	schooling	PhraseTable_co-aligned
+school board	formal education	PhraseTable_co-aligned
+school board	education authority	PhraseTable_co-aligned
+school board	educational system	PhraseTable_co-aligned
+school board	education system	PhraseTable_co-aligned
+school board	educational attainment	PhraseTable_co-aligned
+building complex	complex	WordNet_synonym
+building complex	building complex	WordNet_synonym
+building complex	structure	WordNet_is-a
+building complex	college	WordNet_is-a
+end game	endgame	WordNet_synonym
+end game	end game	WordNet_synonym
+end game	last	WordNet_is-a
+hospital bed	hospital bed	WordNet_synonym
+hospital bed	single bed	WordNet_is-a
+hospital bed	leg	WordNet_part-whole
+hospital bed	bedside	PhraseTable_co-aligned
+language learning	language learning	WordNet_synonym
+language learning	acquisition	WordNet_is-a
+language learning	education	PhraseTable_co-aligned
+language learning	training	PhraseTable_co-aligned
+pilot project	pilot project	WordNet_synonym
+pilot project	pilot program	WordNet_synonym
+pilot project	test	WordNet_is-a
+pilot project	program	PhraseTable_co-aligned
+pilot project	initiative	PhraseTable_co-aligned
+pilot project	proposal	PhraseTable_co-aligned
+pilot project	cape	PhraseTable_co-aligned
+pilot project	board	PhraseTable_co-aligned
+pilot project	standing committee	PhraseTable_co-aligned
+pilot project	international trade	PhraseTable_co-aligned
+pilot project	climate change	PhraseTable_co-aligned
+pilot project	pension plan	PhraseTable_co-aligned
+pilot project	mounted police	PhraseTable_co-aligned
+cargo container	cargo container	WordNet_synonym
+cargo container	box	PhraseTable_co-aligned
+cargo container	bin	PhraseTable_co-aligned
+cargo container	pod	PhraseTable_co-aligned
+cargo container	delivery	PhraseTable_co-aligned
+cargo container	canister	PhraseTable_co-aligned
+cargo container	storage tank	PhraseTable_co-aligned
+cargo container	routing information	PhraseTable_co-aligned
+cargo container	rural route	PhraseTable_co-aligned
+wine making	winemaking	WordNet_synonym
+wine making	wine making	WordNet_synonym
+wine making	trade	WordNet_is-a
+church member	churchgoer	WordNet_synonym
+church member	church member	WordNet_synonym
+church member	religious person	WordNet_is-a
+church member	congregant	WordNet_is-a
+bus route	bus route	WordNet_synonym
+bus route	path	WordNet_is-a
+bus route	bus stop	WordNet_part-whole
+summer school	summer school	WordNet_synonym
+summer school	school term	WordNet_is-a
+water tank	cistern	WordNet_synonym
+water tank	water tank	WordNet_synonym
+water tank	storage tank	WordNet_is-a
+water tank	reservoir	PhraseTable_co-aligned
+water tank	bucket	PhraseTable_co-aligned
+water tank	system	PhraseTable_co-aligned
+art student	art student	WordNet_synonym
+art student	pupil	WordNet_is-a
+destroyer escort	destroyer escort	WordNet_synonym
+destroyer escort	warship	WordNet_is-a
+broadcasting station	broadcasting station	WordNet_synonym
+broadcasting station	broadcast station	WordNet_synonym
+broadcasting station	radio station	WordNet_is-a
+tea leaf	tea	WordNet_synonym
+tea leaf	tea leaf	WordNet_synonym
+tea leaf	herb	WordNet_is-a
+tea leaf	black tea	WordNet_is-a
+jazz band	combo	WordNet_synonym
+jazz band	jazz band	WordNet_synonym
+jazz band	jazz group	WordNet_synonym
+jazz band	dance band	WordNet_is-a
+base rate	base rate	WordNet_synonym
+base rate	interest rate	WordNet_is-a
+base rate	prime	PhraseTable_co-aligned
+base rate	basic	PhraseTable_co-aligned
+base rate	tariff	PhraseTable_co-aligned
+base rate	percentage	PhraseTable_co-aligned
+base rate	basis	PhraseTable_co-aligned
+base rate	basic pay	PhraseTable_co-aligned
+base rate	basic level	PhraseTable_co-aligned
+base rate	monthly fee	PhraseTable_co-aligned
+health professional	caregiver	WordNet_synonym
+health professional	health professional	WordNet_synonym
+health professional	professional person	WordNet_is-a
+health professional	bonesetter	WordNet_is-a
+health professional	health profession	WordNet_part-whole
+health professional	provider	PhraseTable_co-aligned
+health professional	practitioner	PhraseTable_co-aligned
+health professional	healthcare	PhraseTable_co-aligned
+health professional	service	PhraseTable_co-aligned
+health professional	worker	PhraseTable_co-aligned
+health professional	medical attention	PhraseTable_co-aligned
+health professional	medical advice	PhraseTable_co-aligned
+health professional	healthcare provider	PhraseTable_co-aligned
+health professional	medical practitioner	PhraseTable_co-aligned
+health professional	medical assistance	PhraseTable_co-aligned
+manufacturing business	manufacturer	WordNet_synonym
+manufacturing business	maker	WordNet_synonym
+manufacturing business	manufacturing business	WordNet_synonym
+manufacturing business	concern	WordNet_is-a
+manufacturing business	armorer	WordNet_is-a
+manufacturing business	manufacturer	PhraseTable_co-aligned
+manufacturing business	company	PhraseTable_co-aligned
+manufacturing business	plant	PhraseTable_co-aligned
+manufacturing business	produce	PhraseTable_co-aligned
+manufacturing business	enterprise	PhraseTable_co-aligned
+service program	utility	WordNet_synonym
+service program	utility program	WordNet_synonym
+service program	service program	WordNet_synonym
+service program	programme	WordNet_is-a
+service program	diagnostic program	WordNet_is-a
+service program	utility routine	WordNet_part-whole
+service program	de	PhraseTable_co-aligned
+service program	benefit	PhraseTable_co-aligned
+service program	agency	PhraseTable_co-aligned
+service program	access	PhraseTable_co-aligned
+service program	information	PhraseTable_co-aligned
+service program	home care	PhraseTable_co-aligned
+service program	mailing list	PhraseTable_co-aligned
+data point	datum	WordNet_synonym
+data point	data point	WordNet_synonym
+data point	information	WordNet_is-a
+data point	reading	WordNet_is-a
+fire engine	fire engine	WordNet_synonym
+fire engine	fire truck	WordNet_synonym
+fire engine	truck	WordNet_is-a
+fire engine	ladder truck	WordNet_is-a
+group action	group action	WordNet_synonym
+group action	deed	WordNet_is-a
+group action	assembly	WordNet_is-a
+water mains	water main	WordNet_synonym
+water mains	conduct	PhraseTable_co-aligned
+water mains	pipeline	PhraseTable_co-aligned
+water mains	piping	PhraseTable_co-aligned
+water mains	behaviour	PhraseTable_co-aligned
+water mains	duct	PhraseTable_co-aligned
+water mains	air supply	PhraseTable_co-aligned
+water mains	gas line	PhraseTable_co-aligned
+water mains	pipeline system	PhraseTable_co-aligned
+water mains	plastic pipe	PhraseTable_co-aligned
+water mains	rear brake	PhraseTable_co-aligned
+systems analysis	systems analysis	WordNet_synonym
+systems analysis	analytic thinking	WordNet_is-a
+systems analysis	study	PhraseTable_co-aligned
+fire alarm	fire alarm	WordNet_synonym
+fire alarm	alert	WordNet_is-a
+fire alarm	building	PhraseTable_co-aligned
+fire alarm	smoke	PhraseTable_co-aligned
+fire chief	fire chief	WordNet_synonym
+fire chief	fire marshal	WordNet_synonym
+fire chief	fireman	WordNet_is-a
+fire chief	executive	PhraseTable_co-aligned
+fire chief	count	PhraseTable_co-aligned
+fire chief	initiative	PhraseTable_co-aligned
+fire chief	supervisor	PhraseTable_co-aligned
+fire chief	charge	PhraseTable_co-aligned
+fire chief	team leader	PhraseTable_co-aligned
+fire chief	party leader	PhraseTable_co-aligned
+fire chief	group leader	PhraseTable_co-aligned
+fire chief	health officer	PhraseTable_co-aligned
+fire chief	house leader	PhraseTable_co-aligned
+data system	data system	WordNet_synonym
+data system	information system	WordNet_synonym
+data system	information	PhraseTable_co-aligned
+blood donor	blood donor	WordNet_synonym
+blood donor	universal donor	WordNet_is-a
+blood donor	bloodstream	PhraseTable_co-aligned
+blood donor	sang	PhraseTable_co-aligned
+blood donor	bleeding	PhraseTable_co-aligned
+blood donor	sake	PhraseTable_co-aligned
+blood donor	people	PhraseTable_co-aligned
+blood donor	proper analysis	PhraseTable_co-aligned
+blood donor	cardiovascular disease	PhraseTable_co-aligned
+blood donor	clinical trial	PhraseTable_co-aligned
+blood donor	health care	PhraseTable_co-aligned
+blood donor	health research	PhraseTable_co-aligned
+support columns	support column	WordNet_synonym
+support columns	pillar	WordNet_is-a
+support columns	lally	WordNet_is-a
+service staff	service staff	WordNet_synonym
+service staff	maintenance staff	WordNet_synonym
+service staff	program	PhraseTable_co-aligned
+service staff	cape	PhraseTable_co-aligned
+service staff	board	PhraseTable_co-aligned
+service staff	task	PhraseTable_co-aligned
+service staff	employment	PhraseTable_co-aligned
+service staff	hard work	PhraseTable_co-aligned
+service staff	labour force	PhraseTable_co-aligned
+service staff	work place	PhraseTable_co-aligned
+service staff	working group	PhraseTable_co-aligned
+service staff	work force	PhraseTable_co-aligned
+rice paddy	paddy	WordNet_synonym
+rice paddy	paddy field	WordNet_synonym
+rice paddy	rice paddy	WordNet_synonym
+rice paddy	field	WordNet_is-a
+office staff	office	WordNet_synonym
+office staff	office staff	WordNet_synonym
+office staff	employee	PhraseTable_co-aligned
+office staff	bureau	PhraseTable_co-aligned
+office staff	personnel	PhraseTable_co-aligned
+office staff	service	PhraseTable_co-aligned
+office staff	representative	PhraseTable_co-aligned
+peace offering	peace offering	WordNet_synonym
+peace offering	olive branch	WordNet_synonym
+beacon light	beacon	WordNet_synonym
+beacon light	lighthouse	WordNet_synonym
+beacon light	pharos	WordNet_synonym
+beacon light	beacon light	WordNet_synonym
+beacon light	tower	WordNet_is-a
+side road	side road	WordNet_synonym
+side road	route	WordNet_is-a
+spider web	spider web	WordNet_synonym
+spider web	spider's web	WordNet_synonym
+spider web	entanglement	WordNet_is-a
+union member	unionist	WordNet_synonym
+union member	trade unionist	WordNet_synonym
+union member	union member	WordNet_synonym
+union member	worker	WordNet_is-a
+union member	unionization	PhraseTable_co-aligned
+union member	labour	PhraseTable_co-aligned
+union member	membership	PhraseTable_co-aligned
+union member	protection	PhraseTable_co-aligned
+union member	bargaining unit	PhraseTable_co-aligned
+union member	collective bargaining	PhraseTable_co-aligned
+air cleaner	air filter	WordNet_synonym
+air cleaner	air cleaner	WordNet_synonym
+air cleaner	filter	WordNet_is-a
+air cleaner	filter tip	WordNet_is-a
+college girls	co-ed	WordNet_synonym
+college girls	college girl	WordNet_synonym
+college girls	undergraduate	WordNet_is-a
+business loan	business loan	WordNet_synonym
+business loan	commercial loan	WordNet_synonym
+business loan	bank loan	WordNet_is-a
+bowling pin	pin	WordNet_synonym
+bowling pin	bowling pin	WordNet_synonym
+bowling pin	bowling equipment	WordNet_is-a
+bowling pin	candlepin	WordNet_is-a
+steering wheel	wheel	WordNet_synonym
+steering wheel	steering wheel	WordNet_synonym
+steering wheel	handwheel	WordNet_is-a
+steering wheel	drive	PhraseTable_co-aligned
+steering wheel	driver	PhraseTable_co-aligned
+steering wheel	road	PhraseTable_co-aligned
+steering wheel	car	PhraseTable_co-aligned
+steering wheel	vehicle	PhraseTable_co-aligned
+steering wheel	impaired driving	PhraseTable_co-aligned
+steering wheel	control column	PhraseTable_co-aligned
+steering wheel	road rage	PhraseTable_co-aligned
+steering wheel	road safety	PhraseTable_co-aligned
+steering wheel	air bag	PhraseTable_co-aligned
+racing circuit	circuit	WordNet_synonym
+racing circuit	racing circuit	WordNet_synonym
+racing circuit	racetrack	WordNet_is-a
+playing card	playing card	WordNet_synonym
+playing card	ace	WordNet_is-a
+playing card	deck	WordNet_part-whole
+playing card	face	WordNet_part-whole
+string bass	contrabass	WordNet_synonym
+string bass	bass fiddle	WordNet_synonym
+string bass	bass viol	WordNet_synonym
+string bass	bull fiddle	WordNet_synonym
+string bass	double bass	WordNet_synonym
+string bass	string bass	WordNet_synonym
+making love	lovemaking	WordNet_synonym
+making love	love	WordNet_synonym
+making love	sexual love	WordNet_synonym
+making love	making love	WordNet_synonym
+making love	love life	WordNet_synonym
+making love	sexual activity	WordNet_is-a
+total sales	business	PhraseTable_co-aligned
+total sales	revenue	PhraseTable_co-aligned
+total sales	selling	PhraseTable_co-aligned
+total sales	turnover	PhraseTable_co-aligned
+total sales	sell	PhraseTable_co-aligned
+total sales	bottom line	PhraseTable_co-aligned
+total sales	business volume	PhraseTable_co-aligned
+total sales	annual revenue	PhraseTable_co-aligned
+total sales	annual turnover	PhraseTable_co-aligned
+total sales	annual survey	PhraseTable_co-aligned
+sovereign state	independence	PhraseTable_co-aligned
+sovereign state	sovereignty	PhraseTable_co-aligned
+sovereign state	government	PhraseTable_co-aligned
+sovereign state	independent	PhraseTable_co-aligned
+sovereign state	nation	PhraseTable_co-aligned
+appeal court	request	PhraseTable_co-aligned
+appeal court	review	PhraseTable_co-aligned
+appeal court	case	PhraseTable_co-aligned
+appeal court	invitation	PhraseTable_co-aligned
+appeal court	draw	PhraseTable_co-aligned
+appeal court	phone call	PhraseTable_co-aligned
+appeal court	telephone call	PhraseTable_co-aligned
+appeal court	reporting service	PhraseTable_co-aligned
+appeal court	roll call	PhraseTable_co-aligned
+appeal court	call sign	PhraseTable_co-aligned
+total population	community	PhraseTable_co-aligned
+total population	citizen	PhraseTable_co-aligned
+total population	resident	PhraseTable_co-aligned
+total population	force	PhraseTable_co-aligned
+total population	aggregate	PhraseTable_co-aligned
+total population	general public	PhraseTable_co-aligned
+total population	public awareness	PhraseTable_co-aligned
+total population	labour force	PhraseTable_co-aligned
+total population	public opinion	PhraseTable_co-aligned
+total population	public interest	PhraseTable_co-aligned
+north coast	northern	PhraseTable_co-aligned
+north coast	west	PhraseTable_co-aligned
+north coast	island	PhraseTable_co-aligned
+north coast	northwest	PhraseTable_co-aligned
+north coast	mainland	PhraseTable_co-aligned
+north coast	northern shore	PhraseTable_co-aligned
+north coast	northern mainland	PhraseTable_co-aligned
+north coast	northern coastline	PhraseTable_co-aligned
+average person	people	PhraseTable_co-aligned
+average person	ordinary	PhraseTable_co-aligned
+average person	layman	PhraseTable_co-aligned
+average person	country	PhraseTable_co-aligned
+average person	citizen	PhraseTable_co-aligned
+average person	ordinary citizen	PhraseTable_co-aligned
+average person	common man	PhraseTable_co-aligned
+average person	everyday world	PhraseTable_co-aligned
+injection drug	condom	PhraseTable_co-aligned
+injection drug	street	PhraseTable_co-aligned
+injection drug	needle	PhraseTable_co-aligned
+injection drug	population	PhraseTable_co-aligned
+injection drug	injector	PhraseTable_co-aligned
+injection drug	needle exchange	PhraseTable_co-aligned
+hard working	industry	PhraseTable_co-aligned
+hard working	member	PhraseTable_co-aligned
+hard working	person	PhraseTable_co-aligned
+hard working	workplace	PhraseTable_co-aligned
+hard working	trade	PhraseTable_co-aligned
+hard working	work force	PhraseTable_co-aligned
+hard working	labour force	PhraseTable_co-aligned
+hard working	labour market	PhraseTable_co-aligned
+hard working	industry group	PhraseTable_co-aligned
+hard working	social development	PhraseTable_co-aligned
+opposite side	house	PhraseTable_co-aligned
+opposite side	surface	PhraseTable_co-aligned
+opposite side	supply	PhraseTable_co-aligned
+opposite side	contrast	PhraseTable_co-aligned
+opposite side	meet	PhraseTable_co-aligned
+opposite side	official opposition	PhraseTable_co-aligned
+opposite side	opposition party	PhraseTable_co-aligned
+opposite side	opposition member	PhraseTable_co-aligned
+opposite side	public opposition	PhraseTable_co-aligned
+opposite side	loyal opposition	PhraseTable_co-aligned
+opposite direction	reverse	PhraseTable_co-aligned
+opposite direction	contrast	PhraseTable_co-aligned
+opposite direction	fact	PhraseTable_co-aligned
+opposite direction	counter	PhraseTable_co-aligned
+opposite direction	violation	PhraseTable_co-aligned
+opposite direction	adverse effect	PhraseTable_co-aligned
+opposite direction	contrary view	PhraseTable_co-aligned
+opposite direction	sharp contrast	PhraseTable_co-aligned
+opposite direction	stark contrast	PhraseTable_co-aligned
+opposite direction	direct conflict	PhraseTable_co-aligned
+south coast	marine	PhraseTable_co-aligned
+south coast	river	PhraseTable_co-aligned
+south coast	strait	PhraseTable_co-aligned
+south coast	panhandle	PhraseTable_co-aligned
+south coast	region	PhraseTable_co-aligned
+south coast	southern shore	PhraseTable_co-aligned
+south coast	pink salmon	PhraseTable_co-aligned
+south coast	eastern shore	PhraseTable_co-aligned
+homeless people	mobile	PhraseTable_co-aligned
+homeless people	itinerant	PhraseTable_co-aligned
+homeless people	street	PhraseTable_co-aligned
+homeless people	transient	PhraseTable_co-aligned
+homeless people	travelling	PhraseTable_co-aligned
+homeless people	circuit rider	PhraseTable_co-aligned
+homeless people	social development	PhraseTable_co-aligned
+homeless people	child benefit	PhraseTable_co-aligned
+homeless people	sexual abuse	PhraseTable_co-aligned
+homeless people	skid row	PhraseTable_co-aligned
+public information	data	PhraseTable_co-aligned
+public information	government	PhraseTable_co-aligned
+public information	briefing	PhraseTable_co-aligned
+public information	news	PhraseTable_co-aligned
+public information	background	PhraseTable_co-aligned
+public information	official business	PhraseTable_co-aligned
+public information	fact sheet	PhraseTable_co-aligned
+public information	federal government	PhraseTable_co-aligned
+public information	web site	PhraseTable_co-aligned
+public information	annual report	PhraseTable_co-aligned
+public viewing	utility	PhraseTable_co-aligned
+public viewing	viewer	PhraseTable_co-aligned
+public viewing	record	PhraseTable_co-aligned
+public viewing	commission	PhraseTable_co-aligned
+public viewing	visitor	PhraseTable_co-aligned
+public viewing	official business	PhraseTable_co-aligned
+public viewing	federal government	PhraseTable_co-aligned
+public viewing	target audience	PhraseTable_co-aligned
+public viewing	general population	PhraseTable_co-aligned
+public viewing	live audience	PhraseTable_co-aligned
+sufficient evidence	proof	PhraseTable_co-aligned
+sufficient evidence	case	PhraseTable_co-aligned
+sufficient evidence	prima	PhraseTable_co-aligned
+sufficient evidence	complainant	PhraseTable_co-aligned
+sufficient evidence	position	PhraseTable_co-aligned
+screening test	testing	PhraseTable_co-aligned
+screening test	screen	PhraseTable_co-aligned
+screening test	cancer	PhraseTable_co-aligned
+screening test	disease	PhraseTable_co-aligned
+screening test	hiv	PhraseTable_co-aligned
+screening test	drug testing	PhraseTable_co-aligned
+screening test	genetic testing	PhraseTable_co-aligned
+screening test	pap smear	PhraseTable_co-aligned
+public company	open	PhraseTable_co-aligned
+public company	enterprise	PhraseTable_co-aligned
+public company	corporation	PhraseTable_co-aligned
+public company	utility	PhraseTable_co-aligned
+public company	interest	PhraseTable_co-aligned
+public company	open society	PhraseTable_co-aligned
+public company	inclusive society	PhraseTable_co-aligned
+public company	government enterprise	PhraseTable_co-aligned
+public company	crown corporation	PhraseTable_co-aligned
+public company	state enterprise	PhraseTable_co-aligned
+potential future	possibility	PhraseTable_co-aligned
+potential future	lead	PhraseTable_co-aligned
+potential future	prospect	PhraseTable_co-aligned
+potential future	ultimate	PhraseTable_co-aligned
+potential future	event	PhraseTable_co-aligned
+potential future	free trade	PhraseTable_co-aligned
+potential future	eventual aim	PhraseTable_co-aligned
+potential future	eventual outcome	PhraseTable_co-aligned
+potential future	prospective client	PhraseTable_co-aligned
+potential future	prospective employer	PhraseTable_co-aligned
+relevant information	detail	PhraseTable_co-aligned
+relevant information	data	PhraseTable_co-aligned
+relevant information	intelligence	PhraseTable_co-aligned
+relevant information	inquiry	PhraseTable_co-aligned
+relevant information	enquiry	PhraseTable_co-aligned
+relevant information	contact person	PhraseTable_co-aligned
+relevant information	web site	PhraseTable_co-aligned
+relevant information	historical data	PhraseTable_co-aligned
+relevant information	market intelligence	PhraseTable_co-aligned
+relevant information	local contact	PhraseTable_co-aligned
+teacher education	teaching	PhraseTable_co-aligned
+teacher education	training	PhraseTable_co-aligned
+teacher education	development	PhraseTable_co-aligned
+teacher education	activity	PhraseTable_co-aligned
+teacher education	faculty	PhraseTable_co-aligned
+teacher education	faculty development	PhraseTable_co-aligned
+teacher education	educational training	PhraseTable_co-aligned
+executive government	governing	PhraseTable_co-aligned
+executive government	general	PhraseTable_co-aligned
+executive government	cabinet	PhraseTable_co-aligned
+executive government	exec	PhraseTable_co-aligned
+executive government	council	PhraseTable_co-aligned
+executive government	administrative branch	PhraseTable_co-aligned
+executive government	general counsel	PhraseTable_co-aligned
+executive government	governing council	PhraseTable_co-aligned
+executive government	national assembly	PhraseTable_co-aligned
+executive government	policy analyst	PhraseTable_co-aligned
+vacant position	vacancy	PhraseTable_co-aligned
+vacant position	opening	PhraseTable_co-aligned
+vacant position	appointment	PhraseTable_co-aligned
+vacant position	acting	PhraseTable_co-aligned
+vacant position	job	PhraseTable_co-aligned
+vacant position	job opening	PhraseTable_co-aligned
+sea water	marine	PhraseTable_co-aligned
+sea water	saltwater	PhraseTable_co-aligned
+sea water	tide	PhraseTable_co-aligned
+sea water	ocean	PhraseTable_co-aligned
+sea water	concentration	PhraseTable_co-aligned
+sea water	surrounding seawater	PhraseTable_co-aligned
+network access	service	PhraseTable_co-aligned
+network access	distance	PhraseTable_co-aligned
+network access	na	PhraseTable_co-aligned
+network access	capability	PhraseTable_co-aligned
+network access	communication	PhraseTable_co-aligned
+network access	long distance	PhraseTable_co-aligned
+network access	line service	PhraseTable_co-aligned
+network access	telecommunication service	PhraseTable_co-aligned
+college education	training	PhraseTable_co-aligned
+college education	academic	PhraseTable_co-aligned
+college education	community	PhraseTable_co-aligned
+college education	completion	PhraseTable_co-aligned
+college education	experience	PhraseTable_co-aligned
+college education	high school	PhraseTable_co-aligned
+college education	university degree	PhraseTable_co-aligned
+television network	programming	PhraseTable_co-aligned
+television network	service	PhraseTable_co-aligned
+television network	broadcast	PhraseTable_co-aligned
+television network	industry	PhraseTable_co-aligned
+television network	broadcasting	PhraseTable_co-aligned
+television network	broadcasting system	PhraseTable_co-aligned
+television network	digital radio	PhraseTable_co-aligned
+television network	video production	PhraseTable_co-aligned
+television network	programming service	PhraseTable_co-aligned
+television network	film industry	PhraseTable_co-aligned
+government official	servant	PhraseTable_co-aligned
+government official	bureaucrat	PhraseTable_co-aligned
+government official	person	PhraseTable_co-aligned
+government official	public	PhraseTable_co-aligned
+government official	member	PhraseTable_co-aligned
+government official	public service	PhraseTable_co-aligned
+government official	civil servant	PhraseTable_co-aligned
+government official	public officer	PhraseTable_co-aligned
+government official	civil service	PhraseTable_co-aligned
+government official	public employee	PhraseTable_co-aligned
+awards ceremony	event	PhraseTable_co-aligned
+awards ceremony	service	PhraseTable_co-aligned
+awards ceremony	parade	PhraseTable_co-aligned
+awards ceremony	celebration	PhraseTable_co-aligned
+awards ceremony	award	PhraseTable_co-aligned
+awards ceremony	memorial service	PhraseTable_co-aligned
+awards ceremony	award presentation	PhraseTable_co-aligned
+awards ceremony	prayer service	PhraseTable_co-aligned
+awards ceremony	special event	PhraseTable_co-aligned
+awards ceremony	royal assent	PhraseTable_co-aligned
+business world	service	PhraseTable_co-aligned
+business world	trade	PhraseTable_co-aligned
+business world	operation	PhraseTable_co-aligned
+business world	sale	PhraseTable_co-aligned
+business world	item	PhraseTable_co-aligned
+business world	corporate community	PhraseTable_co-aligned
+business world	corporate sector	PhraseTable_co-aligned
+business world	case law	PhraseTable_co-aligned
+business world	private sector	PhraseTable_co-aligned
+business world	refugee law	PhraseTable_co-aligned
+development program	developing	PhraseTable_co-aligned
+development program	plan	PhraseTable_co-aligned
+development program	initiative	PhraseTable_co-aligned
+development program	strategy	PhraseTable_co-aligned
+development program	building	PhraseTable_co-aligned
+development program	training plan	PhraseTable_co-aligned
+development program	training programme	PhraseTable_co-aligned
+development program	developing world	PhraseTable_co-aligned
+development program	training curriculum	PhraseTable_co-aligned
+development program	public service	PhraseTable_co-aligned
+development strategy	developing	PhraseTable_co-aligned
+development strategy	building	PhraseTable_co-aligned
+development strategy	approach	PhraseTable_co-aligned
+development strategy	future	PhraseTable_co-aligned
+development strategy	growth	PhraseTable_co-aligned
+development strategy	developing world	PhraseTable_co-aligned
+development strategy	game plan	PhraseTable_co-aligned
+development strategy	strategic approach	PhraseTable_co-aligned
+development strategy	international trade	PhraseTable_co-aligned
+development strategy	action plan	PhraseTable_co-aligned
+war years	wartime	PhraseTable_co-aligned
+war years	military	PhraseTable_co-aligned
+war years	battle	PhraseTable_co-aligned
+war years	veteran	PhraseTable_co-aligned
+war years	fight	PhraseTable_co-aligned
+war years	armed conflict	PhraseTable_co-aligned
+war years	postwar period	PhraseTable_co-aligned
+war years	wartime service	PhraseTable_co-aligned
+war years	air force	PhraseTable_co-aligned
+war years	military operation	PhraseTable_co-aligned
+capital investment	investing	PhraseTable_co-aligned
+capital investment	equity	PhraseTable_co-aligned
+capital investment	money	PhraseTable_co-aligned
+capital investment	asset	PhraseTable_co-aligned
+capital investment	funding	PhraseTable_co-aligned
+capital investment	fixed asset	PhraseTable_co-aligned
+capital investment	real property	PhraseTable_co-aligned
+capital investment	principal amount	PhraseTable_co-aligned
+capital investment	asset base	PhraseTable_co-aligned
+capital investment	private equity	PhraseTable_co-aligned
+food quality	safety	PhraseTable_co-aligned
+food quality	control	PhraseTable_co-aligned
+food quality	agriculture	PhraseTable_co-aligned
+food quality	knowledge	PhraseTable_co-aligned
+food quality	project	PhraseTable_co-aligned
+food quality	business risk	PhraseTable_co-aligned
+policy making	politics	PhraseTable_co-aligned
+policy making	politician	PhraseTable_co-aligned
+policy making	police	PhraseTable_co-aligned
+policy making	development	PhraseTable_co-aligned
+policy making	government	PhraseTable_co-aligned
+policy making	political level	PhraseTable_co-aligned
+policy making	political party	PhraseTable_co-aligned
+policy making	political process	PhraseTable_co-aligned
+policy making	political side	PhraseTable_co-aligned
+policy making	political nature	PhraseTable_co-aligned
+access information	inquiry	PhraseTable_co-aligned
+access information	detail	PhraseTable_co-aligned
+access information	intelligence	PhraseTable_co-aligned
+access information	enquiry	PhraseTable_co-aligned
+access information	privacy	PhraseTable_co-aligned
+access information	business continuity	PhraseTable_co-aligned
+access information	public service	PhraseTable_co-aligned
+access information	annual report	PhraseTable_co-aligned
+access information	auditor general	PhraseTable_co-aligned
+access information	documentary material	PhraseTable_co-aligned
+flight hours	flying	PhraseTable_co-aligned
+flight hours	time	PhraseTable_co-aligned
+flight hours	hr	PhraseTable_co-aligned
+flight hours	experience	PhraseTable_co-aligned
+flight hours	air	PhraseTable_co-aligned
+flight hours	flying time	PhraseTable_co-aligned
+flight hours	flying experience	PhraseTable_co-aligned
+living organisms	organism	PhraseTable_co-aligned
+living organisms	life	PhraseTable_co-aligned
+living organisms	biota	PhraseTable_co-aligned
+living organisms	substance	PhraseTable_co-aligned
+living organisms	biotechnology	PhraseTable_co-aligned
+living organisms	modified organism	PhraseTable_co-aligned
+living organisms	environmental protection	PhraseTable_co-aligned
+living organisms	deoxyribonucleic acid	PhraseTable_co-aligned
+living organisms	organic matter	PhraseTable_co-aligned
+community development	developing	PhraseTable_co-aligned
+community development	building	PhraseTable_co-aligned
+community development	future	PhraseTable_co-aligned
+community development	growth	PhraseTable_co-aligned
+community development	expansion	PhraseTable_co-aligned
+community development	developing world	PhraseTable_co-aligned
+community development	capacity building	PhraseTable_co-aligned
+community development	international trade	PhraseTable_co-aligned
+community development	research council	PhraseTable_co-aligned
+community development	intellectual property	PhraseTable_co-aligned
+member state	country	PhraseTable_co-aligned
+member state	membership	PhraseTable_co-aligned
+member state	nation	PhraseTable_co-aligned
+member state	government	PhraseTable_co-aligned
+member state	party	PhraseTable_co-aligned
+member state	world summit	PhraseTable_co-aligned
+education level	tuition	PhraseTable_co-aligned
+education level	school	PhraseTable_co-aligned
+education level	schooling	PhraseTable_co-aligned
+education level	attainment	PhraseTable_co-aligned
+education level	academic	PhraseTable_co-aligned
+education level	educational achievement	PhraseTable_co-aligned
+education level	educational background	PhraseTable_co-aligned
+education level	school achievement	PhraseTable_co-aligned
+education level	educational status	PhraseTable_co-aligned
+education level	academic achievement	PhraseTable_co-aligned
+transport aircraft	airlift	PhraseTable_co-aligned
+transport aircraft	jet	PhraseTable_co-aligned
+transport aircraft	lift	PhraseTable_co-aligned
+transport aircraft	commuter	PhraseTable_co-aligned
+transport aircraft	air	PhraseTable_co-aligned
+transport aircraft	air mobility	PhraseTable_co-aligned
+transport aircraft	passenger plane	PhraseTable_co-aligned
+service support	logistics	PhraseTable_co-aligned
+service support	assistance	PhraseTable_co-aligned
+service support	supporting	PhraseTable_co-aligned
+service support	management	PhraseTable_co-aligned
+service support	bridge	PhraseTable_co-aligned
+service support	task force	PhraseTable_co-aligned
+service support	unit group	PhraseTable_co-aligned
+service support	back office	PhraseTable_co-aligned
+service support	logistical assistance	PhraseTable_co-aligned
+service support	gas extraction	PhraseTable_co-aligned
+radio broadcasting	broadcaster	PhraseTable_co-aligned
+radio broadcasting	station	PhraseTable_co-aligned
+radio broadcasting	programming	PhraseTable_co-aligned
+radio broadcasting	television	PhraseTable_co-aligned
+radio broadcasting	radiocommunication	PhraseTable_co-aligned
+radio broadcasting	programming broadcast	PhraseTable_co-aligned
+radio broadcasting	broadcast day	PhraseTable_co-aligned
+radio broadcasting	broadcast time	PhraseTable_co-aligned
+radio broadcasting	broadcast programming	PhraseTable_co-aligned
+radio broadcasting	director general	PhraseTable_co-aligned
+production company	producer	PhraseTable_co-aligned
+production company	scriptwriter	PhraseTable_co-aligned
+production company	director	PhraseTable_co-aligned
+production company	undertaking	PhraseTable_co-aligned
+production company	business	PhraseTable_co-aligned
+production company	financial participation	PhraseTable_co-aligned
+design process	vision	PhraseTable_co-aligned
+design process	developing	PhraseTable_co-aligned
+design process	understanding	PhraseTable_co-aligned
+design process	engineering	PhraseTable_co-aligned
+design process	idea	PhraseTable_co-aligned
+design process	concept development	PhraseTable_co-aligned
+design process	product development	PhraseTable_co-aligned
+design process	program development	PhraseTable_co-aligned
+design process	concept stage	PhraseTable_co-aligned
+design process	developing software	PhraseTable_co-aligned
+online services	service	PhraseTable_co-aligned
+online services	business	PhraseTable_co-aligned
+online services	program	PhraseTable_co-aligned
+online services	air	PhraseTable_co-aligned
+online services	form	PhraseTable_co-aligned
+online services	primary service	PhraseTable_co-aligned
+online services	direct service	PhraseTable_co-aligned
+online services	service delivery	PhraseTable_co-aligned
+online services	home page	PhraseTable_co-aligned
+online services	retirement pension	PhraseTable_co-aligned
+market share	hand	PhraseTable_co-aligned
+market share	contract	PhraseTable_co-aligned
+market share	marketplace	PhraseTable_co-aligned
+market share	marketing	PhraseTable_co-aligned
+market share	force	PhraseTable_co-aligned
+market share	ownership interest	PhraseTable_co-aligned
+market share	commercial basis	PhraseTable_co-aligned
+market share	commercial sale	PhraseTable_co-aligned
+market share	business environment	PhraseTable_co-aligned
+market share	small business	PhraseTable_co-aligned
+production unit	generation	PhraseTable_co-aligned
+production unit	facility	PhraseTable_co-aligned
+production unit	farm	PhraseTable_co-aligned
+production unit	plant	PhraseTable_co-aligned
+production unit	sample	PhraseTable_co-aligned
+production unit	manufacturing facility	PhraseTable_co-aligned
+production unit	protected environment	PhraseTable_co-aligned
+group member	affiliate	PhraseTable_co-aligned
+group member	panellist	PhraseTable_co-aligned
+group member	panelist	PhraseTable_co-aligned
+group member	person	PhraseTable_co-aligned
+group member	team	PhraseTable_co-aligned
+soil surface	ground	PhraseTable_co-aligned
+soil surface	land	PhraseTable_co-aligned
+soil surface	landscape	PhraseTable_co-aligned
+soil surface	area	PhraseTable_co-aligned
+soil surface	cover	PhraseTable_co-aligned
+soil surface	ground level	PhraseTable_co-aligned
+waste water	sewer	PhraseTable_co-aligned
+waste water	effluent	PhraseTable_co-aligned
+waste water	treatment	PhraseTable_co-aligned
+waste water	sewerage	PhraseTable_co-aligned
+waste water	system	PhraseTable_co-aligned
+waste water	wastewater treatment	PhraseTable_co-aligned
+waste water	sewage treatment	PhraseTable_co-aligned
+waste water	raw sewage	PhraseTable_co-aligned
+waste water	municipal wastewater	PhraseTable_co-aligned
+waste water	sewage disposal	PhraseTable_co-aligned
+information service	serving	PhraseTable_co-aligned
+information service	office	PhraseTable_co-aligned
+information service	branch	PhraseTable_co-aligned
+information service	operation	PhraseTable_co-aligned
+information service	unit	PhraseTable_co-aligned
+information service	work unit	PhraseTable_co-aligned
+information service	reporting system	PhraseTable_co-aligned
+information service	pension plan	PhraseTable_co-aligned
+information service	active duty	PhraseTable_co-aligned
+information service	intelligence agency	PhraseTable_co-aligned
+home town	birthplace	PhraseTable_co-aligned
+home town	municipality	PhraseTable_co-aligned
+home town	place	PhraseTable_co-aligned
+home town	downtown	PhraseTable_co-aligned
+home town	location	PhraseTable_co-aligned
+home town	urban centre	PhraseTable_co-aligned
+home town	city hall	PhraseTable_co-aligned
+home town	city council	PhraseTable_co-aligned
+home town	birth place	PhraseTable_co-aligned
+home town	native city	PhraseTable_co-aligned
+project team	crew	PhraseTable_co-aligned
+project team	group	PhraseTable_co-aligned
+project team	staff	PhraseTable_co-aligned
+project team	party	PhraseTable_co-aligned
+project team	unit	PhraseTable_co-aligned
+project team	train crew	PhraseTable_co-aligned
+project team	task force	PhraseTable_co-aligned
+project team	field party	PhraseTable_co-aligned
+project team	working group	PhraseTable_co-aligned
+project team	small group	PhraseTable_co-aligned
+school education	analysis	PhraseTable_co-aligned
+school education	schooling	PhraseTable_co-aligned
+school education	paper	PhraseTable_co-aligned
+school education	trial	PhraseTable_co-aligned
+school education	training	PhraseTable_co-aligned
+school education	educational background	PhraseTable_co-aligned
+school education	academic training	PhraseTable_co-aligned
+school education	case study	PhraseTable_co-aligned
+school education	academic background	PhraseTable_co-aligned
+school education	academic study	PhraseTable_co-aligned
+project management	administration	PhraseTable_co-aligned
+project management	initiative	PhraseTable_co-aligned
+project management	proposal	PhraseTable_co-aligned
+project management	field	PhraseTable_co-aligned
+project management	piece	PhraseTable_co-aligned
+project management	financial administration	PhraseTable_co-aligned
+project management	proposed bill	PhraseTable_co-aligned
+project management	public service	PhraseTable_co-aligned
+project management	proposed legislation	PhraseTable_co-aligned
+project management	proposed order	PhraseTable_co-aligned
+business development	carrier	PhraseTable_co-aligned
+business development	commerce	PhraseTable_co-aligned
+business development	expansion	PhraseTable_co-aligned
+business development	case	PhraseTable_co-aligned
+business development	corporation	PhraseTable_co-aligned
+business development	trade promotion	PhraseTable_co-aligned
+business development	corporate sector	PhraseTable_co-aligned
+business development	international trade	PhraseTable_co-aligned
+business development	economic growth	PhraseTable_co-aligned
+business development	private sector	PhraseTable_co-aligned
+water quality	prince	PhraseTable_co-aligned
+water quality	health	PhraseTable_co-aligned
+water quality	management	PhraseTable_co-aligned
+water quality	research	PhraseTable_co-aligned
+water quality	force	PhraseTable_co-aligned
+water quality	health care	PhraseTable_co-aligned
+water quality	labour force	PhraseTable_co-aligned
+water quality	public service	PhraseTable_co-aligned
+water quality	public health	PhraseTable_co-aligned
+water quality	task force	PhraseTable_co-aligned
+majority government	plurality	PhraseTable_co-aligned
+majority government	control	PhraseTable_co-aligned
+majority government	major	PhraseTable_co-aligned
+majority government	post	PhraseTable_co-aligned
+majority government	mainstream	PhraseTable_co-aligned
+majority government	controlling interest	PhraseTable_co-aligned
+majority government	post system	PhraseTable_co-aligned
+construction site	shipyard	PhraseTable_co-aligned
+construction site	start	PhraseTable_co-aligned
+construction site	work	PhraseTable_co-aligned
+construction site	yard	PhraseTable_co-aligned
+construction site	field	PhraseTable_co-aligned
+construction site	work area	PhraseTable_co-aligned
+construction site	aircraft movement	PhraseTable_co-aligned
+construction site	logging camp	PhraseTable_co-aligned
+construction site	lumber camp	PhraseTable_co-aligned
+construction site	repair yard	PhraseTable_co-aligned
+software development	program	PhraseTable_co-aligned
+software development	product	PhraseTable_co-aligned
+software development	application	PhraseTable_co-aligned
+software development	computer	PhraseTable_co-aligned
+software development	source	PhraseTable_co-aligned
+software development	computer program	PhraseTable_co-aligned
+software development	computer programming	PhraseTable_co-aligned
+software development	computer application	PhraseTable_co-aligned
+software development	existing computer	PhraseTable_co-aligned
+software development	industrial machinery	PhraseTable_co-aligned
+energy efficient	efficiency	PhraseTable_co-aligned
+energy efficient	retrofit	PhraseTable_co-aligned
+energy efficient	performance	PhraseTable_co-aligned
+energy efficient	research	PhraseTable_co-aligned
+energy efficient	program	PhraseTable_co-aligned
+energy efficient	fuel efficiency	PhraseTable_co-aligned
+energy efficient	high efficiency	PhraseTable_co-aligned
+energy efficient	sustainable development	PhraseTable_co-aligned
+energy efficient	pollution prevention	PhraseTable_co-aligned
+energy efficient	fuel economy	PhraseTable_co-aligned
+system design	approach	PhraseTable_co-aligned
+system design	designing	PhraseTable_co-aligned
+system design	understanding	PhraseTable_co-aligned
+system design	view	PhraseTable_co-aligned
+system design	developing	PhraseTable_co-aligned
+system design	concept development	PhraseTable_co-aligned
+system design	product development	PhraseTable_co-aligned
+system design	program development	PhraseTable_co-aligned
+system design	concept stage	PhraseTable_co-aligned
+system design	developing software	PhraseTable_co-aligned
+support program	initiative	PhraseTable_co-aligned
+support program	supporting	PhraseTable_co-aligned
+support program	plan	PhraseTable_co-aligned
+support program	assistance	PhraseTable_co-aligned
+support program	curriculum	PhraseTable_co-aligned
+support program	aid package	PhraseTable_co-aligned
+support program	head start	PhraseTable_co-aligned
+support program	action plan	PhraseTable_co-aligned
+support program	policy agenda	PhraseTable_co-aligned
+support program	federal government	PhraseTable_co-aligned
+war time	warfare	PhraseTable_co-aligned
+war time	blitz	PhraseTable_co-aligned
+war time	conflict	PhraseTable_co-aligned
+war time	battle	PhraseTable_co-aligned
+war time	affair	PhraseTable_co-aligned
+war time	wartime service	PhraseTable_co-aligned
+war time	armed conflict	PhraseTable_co-aligned
+war time	remembrance day	PhraseTable_co-aligned
+war time	wartime experience	PhraseTable_co-aligned
+war time	wartime production	PhraseTable_co-aligned
+industry development	investment	PhraseTable_co-aligned
+industry development	sector	PhraseTable_co-aligned
+industry development	government	PhraseTable_co-aligned
+industry development	television	PhraseTable_co-aligned
+industry development	business	PhraseTable_co-aligned
+industry development	industrial expansion	PhraseTable_co-aligned
+industry development	industrial growth	PhraseTable_co-aligned
+director general	branch	PhraseTable_co-aligned
+director general	chief	PhraseTable_co-aligned
+director general	steering	PhraseTable_co-aligned
+director general	manager	PhraseTable_co-aligned
+director general	directorate	PhraseTable_co-aligned
+director general	chief executive	PhraseTable_co-aligned
+director general	executive officer	PhraseTable_co-aligned
+director general	national headquarters	PhraseTable_co-aligned
+director general	returning officer	PhraseTable_co-aligned
+director general	senior management	PhraseTable_co-aligned
+information source	resource	PhraseTable_co-aligned
+information source	data	PhraseTable_co-aligned
+information source	record	PhraseTable_co-aligned
+information source	knowledge	PhraseTable_co-aligned
+information source	news	PhraseTable_co-aligned
+information source	web site	PhraseTable_co-aligned
+information source	comprehensive resource	PhraseTable_co-aligned
+information source	valuable resource	PhraseTable_co-aligned
+sales volume	business	PhraseTable_co-aligned
+sales volume	revenue	PhraseTable_co-aligned
+sales volume	turnover	PhraseTable_co-aligned
+sales volume	sell	PhraseTable_co-aligned
+sales volume	export	PhraseTable_co-aligned
+sales volume	bottom line	PhraseTable_co-aligned
+sales volume	total revenue	PhraseTable_co-aligned
+sales volume	annual revenue	PhraseTable_co-aligned
+sales volume	annual turnover	PhraseTable_co-aligned
+sales volume	total business	PhraseTable_co-aligned
+world class	prime	PhraseTable_co-aligned
+world class	primary	PhraseTable_co-aligned
+world class	premier	PhraseTable_co-aligned
+world class	leading	PhraseTable_co-aligned
+world class	major	PhraseTable_co-aligned
+world class	international level	PhraseTable_co-aligned
+world class	global level	PhraseTable_co-aligned
+world class	international stature	PhraseTable_co-aligned
+world class	international scene	PhraseTable_co-aligned
+world class	international stage	PhraseTable_co-aligned
+air carrier	airline	PhraseTable_co-aligned
+air carrier	airlift	PhraseTable_co-aligned
+air carrier	transporter	PhraseTable_co-aligned
+air carrier	aviation	PhraseTable_co-aligned
+air carrier	company	PhraseTable_co-aligned
+air carrier	airline industry	PhraseTable_co-aligned
+air carrier	airline company	PhraseTable_co-aligned
+air carrier	transportation company	PhraseTable_co-aligned
+air carrier	airline travel	PhraseTable_co-aligned
+air carrier	aerial delivery	PhraseTable_co-aligned
+research funding	support	PhraseTable_co-aligned
+research funding	credit	PhraseTable_co-aligned
+research funding	money	PhraseTable_co-aligned
+research funding	capital	PhraseTable_co-aligned
+research funding	finding	PhraseTable_co-aligned
+research funding	financial support	PhraseTable_co-aligned
+research funding	financial assistance	PhraseTable_co-aligned
+research funding	fund raising	PhraseTable_co-aligned
+research funding	debt financing	PhraseTable_co-aligned
+research funding	equity financing	PhraseTable_co-aligned
+quality care	treatment	PhraseTable_co-aligned
+quality care	cancer	PhraseTable_co-aligned
+quality care	provider	PhraseTable_co-aligned
+quality care	service	PhraseTable_co-aligned
+quality care	health	PhraseTable_co-aligned
+quality care	good health	PhraseTable_co-aligned
+quality care	public health	PhraseTable_co-aligned
+majority vote	bulk	PhraseTable_co-aligned
+majority vote	division	PhraseTable_co-aligned
+majority vote	government	PhraseTable_co-aligned
+majority vote	number	PhraseTable_co-aligned
+majority vote	major	PhraseTable_co-aligned
+majority vote	government side	PhraseTable_co-aligned
+majority vote	major part	PhraseTable_co-aligned
+majority vote	large part	PhraseTable_co-aligned
+majority vote	major proportion	PhraseTable_co-aligned
+majority vote	large number	PhraseTable_co-aligned
+arts community	art	PhraseTable_co-aligned
+arts community	artist	PhraseTable_co-aligned
+arts community	art world	PhraseTable_co-aligned
+arts community	artistic milieu	PhraseTable_co-aligned
+arts community	artistic environment	PhraseTable_co-aligned
+arts community	art scene	PhraseTable_co-aligned
+arts community	artistic scene	PhraseTable_co-aligned
+software application	copy	PhraseTable_co-aligned
+software application	system	PhraseTable_co-aligned
+software application	number	PhraseTable_co-aligned
+software application	computer	PhraseTable_co-aligned
+software application	program	PhraseTable_co-aligned
+software application	computer program	PhraseTable_co-aligned
+software application	computer system	PhraseTable_co-aligned
+software application	database program	PhraseTable_co-aligned
+software application	management system	PhraseTable_co-aligned
+software application	system hardware	PhraseTable_co-aligned
+service quality	performance	PhraseTable_co-aligned
+service quality	advisory	PhraseTable_co-aligned
+service quality	community	PhraseTable_co-aligned
+service quality	professionalism	PhraseTable_co-aligned
+service quality	system	PhraseTable_co-aligned
+service quality	health system	PhraseTable_co-aligned
+service quality	child care	PhraseTable_co-aligned
+service quality	national park	PhraseTable_co-aligned
+business travel	trip	PhraseTable_co-aligned
+business travel	employee	PhraseTable_co-aligned
+business travel	travelling	PhraseTable_co-aligned
+business travel	motel	PhraseTable_co-aligned
+business travel	median	PhraseTable_co-aligned
+business travel	foreign service	PhraseTable_co-aligned
+time delay	interval	PhraseTable_co-aligned
+time delay	term	PhraseTable_co-aligned
+time delay	standard	PhraseTable_co-aligned
+time delay	amount	PhraseTable_co-aligned
+time delay	window	PhraseTable_co-aligned
+time delay	notice period	PhraseTable_co-aligned
+time delay	grace period	PhraseTable_co-aligned
+time delay	waiting period	PhraseTable_co-aligned
+time delay	due date	PhraseTable_co-aligned
+time delay	prescribed period	PhraseTable_co-aligned
+program evaluation	curriculum	PhraseTable_co-aligned
+program evaluation	appraisal	PhraseTable_co-aligned
+program evaluation	valuation	PhraseTable_co-aligned
+program evaluation	strategy	PhraseTable_co-aligned
+program evaluation	initiative	PhraseTable_co-aligned
+program evaluation	environmental assessment	PhraseTable_co-aligned
+program evaluation	risk assessment	PhraseTable_co-aligned
+program evaluation	assessment process	PhraseTable_co-aligned
+program evaluation	impact assessment	PhraseTable_co-aligned
+program evaluation	safety assessment	PhraseTable_co-aligned
+water body	waterway	PhraseTable_co-aligned
+water body	watercourse	PhraseTable_co-aligned
+water body	creek	PhraseTable_co-aligned
+water body	watershed	PhraseTable_co-aligned
+water body	channel	PhraseTable_co-aligned
+water body	river system	PhraseTable_co-aligned
+water body	stream channel	PhraseTable_co-aligned
+water body	red river	PhraseTable_co-aligned
+water body	stream bed	PhraseTable_co-aligned
+water body	fish habitat	PhraseTable_co-aligned
+data source	spring	PhraseTable_co-aligned
+data source	supply	PhraseTable_co-aligned
+data source	resource	PhraseTable_co-aligned
+data source	root	PhraseTable_co-aligned
+data source	information	PhraseTable_co-aligned
+data source	contact information	PhraseTable_co-aligned
+data source	business address	PhraseTable_co-aligned
+data source	postal address	PhraseTable_co-aligned
+data source	related term	PhraseTable_co-aligned
+data source	spring water	PhraseTable_co-aligned
+panel member	committee	PhraseTable_co-aligned
+panel member	person	PhraseTable_co-aligned
+panel member	board	PhraseTable_co-aligned
+panel member	questioner	PhraseTable_co-aligned
+panel member	council	PhraseTable_co-aligned
+panel member	committee membership	PhraseTable_co-aligned
+process control	inspection	PhraseTable_co-aligned
+process control	oversight	PhraseTable_co-aligned
+process control	monitor	PhraseTable_co-aligned
+process control	examination	PhraseTable_co-aligned
+process control	testing	PhraseTable_co-aligned
+process control	controlled flight	PhraseTable_co-aligned
+process control	controlling interest	PhraseTable_co-aligned
+process control	judicial review	PhraseTable_co-aligned
+process control	security screening	PhraseTable_co-aligned
+process control	check point	PhraseTable_co-aligned
+coal mining	colliery	PhraseTable_co-aligned
+coal mining	mine	PhraseTable_co-aligned
+coal mining	coke	PhraseTable_co-aligned
+coal mining	gas	PhraseTable_co-aligned
+coal mining	pit	PhraseTable_co-aligned
+coal mining	oil pipeline	PhraseTable_co-aligned
+air show	aircraft	PhraseTable_co-aligned
+air show	military	PhraseTable_co-aligned
+air show	hangar	PhraseTable_co-aligned
+air show	display	PhraseTable_co-aligned
+air show	event	PhraseTable_co-aligned
+air show	aerial display	PhraseTable_co-aligned
+air show	open house	PhraseTable_co-aligned
+tobacco smoking	smoke	PhraseTable_co-aligned
+tobacco smoking	health	PhraseTable_co-aligned
+tobacco smoking	cessation	PhraseTable_co-aligned
+tobacco smoking	cigarette	PhraseTable_co-aligned
+tobacco smoking	smoker	PhraseTable_co-aligned
+tobacco smoking	nicotine addiction	PhraseTable_co-aligned
+tobacco smoking	cigarette smoke	PhraseTable_co-aligned
+tobacco smoking	public health	PhraseTable_co-aligned
+tobacco smoking	respiratory disease	PhraseTable_co-aligned
+construction project	development	PhraseTable_co-aligned
+construction project	building	PhraseTable_co-aligned
+construction project	build	PhraseTable_co-aligned
+construction project	proposal	PhraseTable_co-aligned
+construction project	highway	PhraseTable_co-aligned
+drunk driving	impairment	PhraseTable_co-aligned
+drunk driving	alcohol	PhraseTable_co-aligned
+drunk driving	drinking	PhraseTable_co-aligned
+drunk driving	driver	PhraseTable_co-aligned
+drunk driving	issue	PhraseTable_co-aligned
+drunk driving	motor vehicle	PhraseTable_co-aligned
+drunk driving	stolen property	PhraseTable_co-aligned
+design work	idea	PhraseTable_co-aligned
+design work	creation	PhraseTable_co-aligned
+design work	engineering	PhraseTable_co-aligned
+design work	designer	PhraseTable_co-aligned
+design work	notion	PhraseTable_co-aligned
+design work	concept development	PhraseTable_co-aligned
+design work	product development	PhraseTable_co-aligned
+design work	program development	PhraseTable_co-aligned
+design work	concept stage	PhraseTable_co-aligned
+design work	developing software	PhraseTable_co-aligned
+management team	executive	PhraseTable_co-aligned
+management team	steering	PhraseTable_co-aligned
+management team	leadership	PhraseTable_co-aligned
+management team	directorate	PhraseTable_co-aligned
+management team	division	PhraseTable_co-aligned
+management team	executive officer	PhraseTable_co-aligned
+management team	executive level	PhraseTable_co-aligned
+management team	executive committee	PhraseTable_co-aligned
+management team	senior level	PhraseTable_co-aligned
+management team	executive group	PhraseTable_co-aligned
+coverage area	service	PhraseTable_co-aligned
+coverage area	footprint	PhraseTable_co-aligned
+coverage area	territory	PhraseTable_co-aligned
+coverage area	station	PhraseTable_co-aligned
+coverage area	transmitter	PhraseTable_co-aligned
+coverage area	programming service	PhraseTable_co-aligned
+coverage area	transmitter site	PhraseTable_co-aligned
+coverage area	digital service	PhraseTable_co-aligned
+coverage area	television station	PhraseTable_co-aligned
+coverage area	basic service	PhraseTable_co-aligned
+television drama	programming	PhraseTable_co-aligned
+television drama	theatre	PhraseTable_co-aligned
+television drama	program	PhraseTable_co-aligned
+television drama	licence	PhraseTable_co-aligned
+television drama	play	PhraseTable_co-aligned
+television drama	dramatic work	PhraseTable_co-aligned
+television drama	dramatic series	PhraseTable_co-aligned
+television drama	dramatic production	PhraseTable_co-aligned
+television drama	copyright act	PhraseTable_co-aligned
+television drama	film board	PhraseTable_co-aligned
+capital region	part	PhraseTable_co-aligned
+capital region	community	PhraseTable_co-aligned
+capital region	country	PhraseTable_co-aligned
+capital region	location	PhraseTable_co-aligned
+capital region	death	PhraseTable_co-aligned
+capital region	local area	PhraseTable_co-aligned
+capital region	geographic area	PhraseTable_co-aligned
+capital region	surrounding area	PhraseTable_co-aligned
+capital region	geographical area	PhraseTable_co-aligned
+capital region	settlement area	PhraseTable_co-aligned
+police service	department	PhraseTable_co-aligned
+police service	duty	PhraseTable_co-aligned
+police service	policy	PhraseTable_co-aligned
+police service	unit	PhraseTable_co-aligned
+police service	serving	PhraseTable_co-aligned
+police service	law enforcement	PhraseTable_co-aligned
+police service	insurance policy	PhraseTable_co-aligned
+police service	work unit	PhraseTable_co-aligned
+police service	task force	PhraseTable_co-aligned
+police service	pension plan	PhraseTable_co-aligned
+capacity building	strengthening	PhraseTable_co-aligned
+capacity building	skill	PhraseTable_co-aligned
+capacity building	development	PhraseTable_co-aligned
+capacity building	potential	PhraseTable_co-aligned
+capacity building	reinforcement	PhraseTable_co-aligned
+capacity building	skill development	PhraseTable_co-aligned
+capacity building	capability development	PhraseTable_co-aligned
+capacity building	social development	PhraseTable_co-aligned
+capacity building	emergency preparedness	PhraseTable_co-aligned
+capacity building	improved ability	PhraseTable_co-aligned
+staff training	personnel	PhraseTable_co-aligned
+staff training	education	PhraseTable_co-aligned
+staff training	learning	PhraseTable_co-aligned
+staff training	employee	PhraseTable_co-aligned
+staff training	improvement	PhraseTable_co-aligned
+staff training	professional development	PhraseTable_co-aligned
+discussion group	forum	PhraseTable_co-aligned
+discussion group	panel	PhraseTable_co-aligned
+discussion group	focus	PhraseTable_co-aligned
+discussion group	chat	PhraseTable_co-aligned
+discussion group	session	PhraseTable_co-aligned
+discussion group	chat room	PhraseTable_co-aligned
+discussion group	mailing list	PhraseTable_co-aligned
+discussion group	internet chat	PhraseTable_co-aligned
+discussion group	qualitative research	PhraseTable_co-aligned
+management system	force	PhraseTable_co-aligned
+management system	administration	PhraseTable_co-aligned
+management system	research	PhraseTable_co-aligned
+management system	health	PhraseTable_co-aligned
+management system	service	PhraseTable_co-aligned
+management system	health care	PhraseTable_co-aligned
+management system	public service	PhraseTable_co-aligned
+management system	pension plan	PhraseTable_co-aligned
+management system	task force	PhraseTable_co-aligned
+management system	child care	PhraseTable_co-aligned
+team member	crew	PhraseTable_co-aligned
+team member	staff	PhraseTable_co-aligned
+team member	personnel	PhraseTable_co-aligned
+team member	employee	PhraseTable_co-aligned
+team member	person	PhraseTable_co-aligned
+team member	train crew	PhraseTable_co-aligned
+team member	project director	PhraseTable_co-aligned
+team member	locomotive crew	PhraseTable_co-aligned
+team member	project staff	PhraseTable_co-aligned
+work site	construction	PhraseTable_co-aligned
+work site	location	PhraseTable_co-aligned
+work site	shipyard	PhraseTable_co-aligned
+work site	job	PhraseTable_co-aligned
+work site	start	PhraseTable_co-aligned
+work site	job offer	PhraseTable_co-aligned
+work site	working place	PhraseTable_co-aligned
+work site	working environment	PhraseTable_co-aligned
+work site	labour force	PhraseTable_co-aligned
+work site	working area	PhraseTable_co-aligned
+research associate	analyst	PhraseTable_co-aligned
+research associate	adjunct	PhraseTable_co-aligned
+research associate	assistant	PhraseTable_co-aligned
+research associate	clerk	PhraseTable_co-aligned
+research associate	committee	PhraseTable_co-aligned
+research associate	senior fellow	PhraseTable_co-aligned
+research associate	chief researcher	PhraseTable_co-aligned
+minority language	tongue	PhraseTable_co-aligned
+minority language	english	PhraseTable_co-aligned
+minority language	speaking	PhraseTable_co-aligned
+minority language	service	PhraseTable_co-aligned
+minority language	community	PhraseTable_co-aligned
+minority language	mother tongue	PhraseTable_co-aligned
+minority language	small number	PhraseTable_co-aligned
+minority language	labour force	PhraseTable_co-aligned
+minority language	public service	PhraseTable_co-aligned
+minority language	community radio	PhraseTable_co-aligned
+business management	governance	PhraseTable_co-aligned
+business management	collective	PhraseTable_co-aligned
+business management	field	PhraseTable_co-aligned
+business management	administration	PhraseTable_co-aligned
+business management	performance	PhraseTable_co-aligned
+business management	corporate governance	PhraseTable_co-aligned
+business management	public service	PhraseTable_co-aligned
+business management	public administration	PhraseTable_co-aligned
+business management	resource planning	PhraseTable_co-aligned
+business management	administrative support	PhraseTable_co-aligned
+support staff	assistance	PhraseTable_co-aligned
+support staff	supporting	PhraseTable_co-aligned
+support staff	service	PhraseTable_co-aligned
+support staff	maintenance	PhraseTable_co-aligned
+support staff	assist	PhraseTable_co-aligned
+support staff	supportive environment	PhraseTable_co-aligned
+support staff	safety net	PhraseTable_co-aligned
+support staff	financial assistance	PhraseTable_co-aligned
+support staff	supportive role	PhraseTable_co-aligned
+support staff	supporting role	PhraseTable_co-aligned
+flight training	flying	PhraseTable_co-aligned
+flight training	examination	PhraseTable_co-aligned
+flight training	pilot	PhraseTable_co-aligned
+flight training	aircraft	PhraseTable_co-aligned
+flight training	centre	PhraseTable_co-aligned
+flight training	flying instruction	PhraseTable_co-aligned
+data sharing	information	PhraseTable_co-aligned
+data sharing	reporting	PhraseTable_co-aligned
+data sharing	exchange	PhraseTable_co-aligned
+data sharing	interchange	PhraseTable_co-aligned
+data sharing	communication	PhraseTable_co-aligned
+data sharing	information exchange	PhraseTable_co-aligned
+data sharing	exchange information	PhraseTable_co-aligned
+data sharing	knowledge exchange	PhraseTable_co-aligned
+data sharing	exchanging information	PhraseTable_co-aligned
+data sharing	reporting system	PhraseTable_co-aligned
+personnel management	employee	PhraseTable_co-aligned
+personnel management	accounting	PhraseTable_co-aligned
+personnel management	matter	PhraseTable_co-aligned
+personnel management	system	PhraseTable_co-aligned
+personnel management	people	PhraseTable_co-aligned
+personnel management	financial administration	PhraseTable_co-aligned
+data access	information	PhraseTable_co-aligned
+data access	custom	PhraseTable_co-aligned
+data access	survey	PhraseTable_co-aligned
+data access	record	PhraseTable_co-aligned
+data access	research	PhraseTable_co-aligned
+control device	controller	PhraseTable_co-aligned
+control device	governor	PhraseTable_co-aligned
+control device	dispatcher	PhraseTable_co-aligned
+control device	regulating	PhraseTable_co-aligned
+control device	dispatch	PhraseTable_co-aligned
+control device	train dispatcher	PhraseTable_co-aligned
+control device	regulatory body	PhraseTable_co-aligned
+control device	keyless entry	PhraseTable_co-aligned
+control device	single speed	PhraseTable_co-aligned
+control device	voltage regulator	PhraseTable_co-aligned
+knowledge sharing	exchange	PhraseTable_co-aligned
+knowledge sharing	learning	PhraseTable_co-aligned
+knowledge sharing	awareness	PhraseTable_co-aligned
+knowledge sharing	project	PhraseTable_co-aligned
+knowledge sharing	development	PhraseTable_co-aligned
+knowledge sharing	policy research	PhraseTable_co-aligned
+water source	spring	PhraseTable_co-aligned
+water source	supply	PhraseTable_co-aligned
+water source	drought	PhraseTable_co-aligned
+water source	stream	PhraseTable_co-aligned
+water source	system	PhraseTable_co-aligned
+government party	department	PhraseTable_co-aligned
+government party	parliament	PhraseTable_co-aligned
+government party	minister	PhraseTable_co-aligned
+government party	governing	PhraseTable_co-aligned
+government party	house	PhraseTable_co-aligned
+government party	public service	PhraseTable_co-aligned
+government party	prime minister	PhraseTable_co-aligned
+government party	public policy	PhraseTable_co-aligned
+government party	climate change	PhraseTable_co-aligned
+government party	public safety	PhraseTable_co-aligned
+sector development	expansion	PhraseTable_co-aligned
+sector development	industry	PhraseTable_co-aligned
+sector development	environment	PhraseTable_co-aligned
+sector development	poverty	PhraseTable_co-aligned
+sector development	business	PhraseTable_co-aligned
+sector development	technical assistance	PhraseTable_co-aligned
+fuel wood	cordwood	PhraseTable_co-aligned
+fuel wood	collection	PhraseTable_co-aligned
+fuel wood	heating	PhraseTable_co-aligned
+fuel wood	stove	PhraseTable_co-aligned
+fuel wood	firewood	PhraseTable_co-aligned
+law reform	change	PhraseTable_co-aligned
+law reform	review	PhraseTable_co-aligned
+law reform	renewal	PhraseTable_co-aligned
+law reform	overhaul	PhraseTable_co-aligned
+law reform	amendment	PhraseTable_co-aligned
+law reform	legislative change	PhraseTable_co-aligned
+law reform	standing committee	PhraseTable_co-aligned
+law reform	legal change	PhraseTable_co-aligned
+law reform	policy review	PhraseTable_co-aligned
+law reform	fundamental change	PhraseTable_co-aligned
+community building	development	PhraseTable_co-aligned
+community building	cdc	PhraseTable_co-aligned
+community building	program	PhraseTable_co-aligned
+community building	organization	PhraseTable_co-aligned
+community building	activity	PhraseTable_co-aligned
+community building	economic development	PhraseTable_co-aligned
+community building	business development	PhraseTable_co-aligned
+community building	public accountability	PhraseTable_co-aligned
+community building	development corporation	PhraseTable_co-aligned
+community building	development program	PhraseTable_co-aligned
+train speed	fast	PhraseTable_co-aligned
+train speed	pace	PhraseTable_co-aligned
+train speed	gear	PhraseTable_co-aligned
+train speed	clear	PhraseTable_co-aligned
+train speed	speeding	PhraseTable_co-aligned
+train speed	wind gust	PhraseTable_co-aligned
+train speed	fire rate	PhraseTable_co-aligned
+train speed	positive rate	PhraseTable_co-aligned
+train speed	rapid pace	PhraseTable_co-aligned
+train speed	rapid rate	PhraseTable_co-aligned
+skills training	panel	PhraseTable_co-aligned
+skills training	capability	PhraseTable_co-aligned
+skills training	background	PhraseTable_co-aligned
+skills training	instruction	PhraseTable_co-aligned
+skills training	competence	PhraseTable_co-aligned
+skills training	professional development	PhraseTable_co-aligned
+skills training	skill development	PhraseTable_co-aligned
+skills training	professional education	PhraseTable_co-aligned
+skills training	capacity building	PhraseTable_co-aligned
+skills training	vocational education	PhraseTable_co-aligned
+headquarters office	head	PhraseTable_co-aligned
+headquarters office	centre	PhraseTable_co-aligned
+headquarters office	management	PhraseTable_co-aligned
+headquarters office	hq	PhraseTable_co-aligned
+headquarters office	region	PhraseTable_co-aligned
+headquarters office	central government	PhraseTable_co-aligned
+headquarters office	central agency	PhraseTable_co-aligned
+headquarters office	national level	PhraseTable_co-aligned
+headquarters office	central authority	PhraseTable_co-aligned
+headquarters office	centralized administration	PhraseTable_co-aligned
+safety standard	security	PhraseTable_co-aligned
+safety standard	safe	PhraseTable_co-aligned
+safety standard	code	PhraseTable_co-aligned
+safety standard	containment	PhraseTable_co-aligned
+safety standard	administration	PhraseTable_co-aligned
+safety standard	security policy	PhraseTable_co-aligned
+safety standard	physical security	PhraseTable_co-aligned
+data management	information	PhraseTable_co-aligned
+data management	database	PhraseTable_co-aligned
+data management	monitoring	PhraseTable_co-aligned
+data management	control	PhraseTable_co-aligned
+data management	collection	PhraseTable_co-aligned
+trading company	corporation	PhraseTable_co-aligned
+trading company	business	PhraseTable_co-aligned
+trading company	commercial	PhraseTable_co-aligned
+trading company	firm	PhraseTable_co-aligned
+trading company	association	PhraseTable_co-aligned
+trading company	business corporation	PhraseTable_co-aligned
+trading company	commercial enterprise	PhraseTable_co-aligned
+trading company	commercial partnership	PhraseTable_co-aligned
+trading company	commercial firm	PhraseTable_co-aligned
+trading company	business firm	PhraseTable_co-aligned
+school level	student	PhraseTable_co-aligned
+school level	training	PhraseTable_co-aligned
+school level	academy	PhraseTable_co-aligned
+school level	system	PhraseTable_co-aligned
+school level	institute	PhraseTable_co-aligned
+school level	education system	PhraseTable_co-aligned
+school level	educational system	PhraseTable_co-aligned
+school level	financial assistance	PhraseTable_co-aligned
+school level	adult education	PhraseTable_co-aligned
+school level	basic education	PhraseTable_co-aligned
+population base	populace	PhraseTable_co-aligned
+population base	group	PhraseTable_co-aligned
+population base	nation	PhraseTable_co-aligned
+population base	demographic	PhraseTable_co-aligned
+population base	constituent	PhraseTable_co-aligned
+population base	public awareness	PhraseTable_co-aligned
+population base	labour force	PhraseTable_co-aligned
+population base	public opinion	PhraseTable_co-aligned
+population base	public interest	PhraseTable_co-aligned
+population base	public service	PhraseTable_co-aligned
+share ownership	shareholder	PhraseTable_co-aligned
+share ownership	shareholding	PhraseTable_co-aligned
+share ownership	stock	PhraseTable_co-aligned
+share ownership	equity	PhraseTable_co-aligned
+share ownership	voting	PhraseTable_co-aligned
+share ownership	stock purchase	PhraseTable_co-aligned
+executive assistant	administration	PhraseTable_co-aligned
+executive assistant	secretary	PhraseTable_co-aligned
+executive assistant	manager	PhraseTable_co-aligned
+executive assistant	chief	PhraseTable_co-aligned
+executive assistant	staff	PhraseTable_co-aligned
+executive assistant	administrative officer	PhraseTable_co-aligned
+executive assistant	office manager	PhraseTable_co-aligned
+executive assistant	administrative support	PhraseTable_co-aligned
+executive assistant	director general	PhraseTable_co-aligned
+operations management	operation	PhraseTable_co-aligned
+operations management	business	PhraseTable_co-aligned
+operations management	administration	PhraseTable_co-aligned
+operations management	comptroller	PhraseTable_co-aligned
+operations management	resource	PhraseTable_co-aligned
+officer training	development	PhraseTable_co-aligned
+officer training	formation	PhraseTable_co-aligned
+officer training	learning	PhraseTable_co-aligned
+officer training	train	PhraseTable_co-aligned
+officer training	skill	PhraseTable_co-aligned
+officer training	safety education	PhraseTable_co-aligned
+officer training	legal education	PhraseTable_co-aligned
+officer training	formal education	PhraseTable_co-aligned
+officer training	distance education	PhraseTable_co-aligned
+officer training	parent education	PhraseTable_co-aligned
+investment fund	dollar	PhraseTable_co-aligned
+investment fund	holding	PhraseTable_co-aligned
+investment fund	capital	PhraseTable_co-aligned
+investment fund	land	PhraseTable_co-aligned
+investment fund	cash	PhraseTable_co-aligned
+investment fund	working capital	PhraseTable_co-aligned
+investment fund	project funding	PhraseTable_co-aligned
+investment fund	federal funding	PhraseTable_co-aligned
+investment fund	funding support	PhraseTable_co-aligned
+investment fund	program funding	PhraseTable_co-aligned
+access service	availability	PhraseTable_co-aligned
+access service	entry	PhraseTable_co-aligned
+access service	accessibility	PhraseTable_co-aligned
+access service	freedom	PhraseTable_co-aligned
+access service	link	PhraseTable_co-aligned
+access service	program record	PhraseTable_co-aligned
+access service	record number	PhraseTable_co-aligned
+access service	accessible location	PhraseTable_co-aligned
+access service	direct link	PhraseTable_co-aligned
+access service	entry point	PhraseTable_co-aligned
+team work	working	PhraseTable_co-aligned
+team work	effort	PhraseTable_co-aligned
+team work	ethic	PhraseTable_co-aligned
+team work	organization	PhraseTable_co-aligned
+team work	cooperation	PhraseTable_co-aligned
+team work	cognitive capacity	PhraseTable_co-aligned
+insurance business	executive	PhraseTable_co-aligned
+insurance business	sole	PhraseTable_co-aligned
+insurance business	guarantee	PhraseTable_co-aligned
+insurance business	entity	PhraseTable_co-aligned
+insurance business	facility	PhraseTable_co-aligned
+insurance business	quality assurance	PhraseTable_co-aligned
+insurance business	based company	PhraseTable_co-aligned
+insurance business	life assurance	PhraseTable_co-aligned
+insurance business	private sector	PhraseTable_co-aligned
+insurance business	individual company	PhraseTable_co-aligned
+bank branch	superintendent	PhraseTable_co-aligned
+bank branch	telecommunication	PhraseTable_co-aligned
+bank branch	atm	PhraseTable_co-aligned
+bank branch	banking	PhraseTable_co-aligned
+bank branch	notice	PhraseTable_co-aligned
+bank branch	electoral district	PhraseTable_co-aligned
+consulate general	high	PhraseTable_co-aligned
+consulate general	office	PhraseTable_co-aligned
+consulate general	profile	PhraseTable_co-aligned
+consulate general	trade	PhraseTable_co-aligned
+consulate general	consul	PhraseTable_co-aligned
+consulate general	high commission	PhraseTable_co-aligned
+consulate general	high commissioner	PhraseTable_co-aligned
+consulate general	embassy building	PhraseTable_co-aligned
+consulate general	trade office	PhraseTable_co-aligned
+consulate general	regional office	PhraseTable_co-aligned
+safety officer	constable	PhraseTable_co-aligned
+safety officer	person	PhraseTable_co-aligned
+safety officer	representative	PhraseTable_co-aligned
+safety officer	official	PhraseTable_co-aligned
+safety officer	protection	PhraseTable_co-aligned
+safety officer	national security	PhraseTable_co-aligned
+safety officer	staff member	PhraseTable_co-aligned
+safety officer	government security	PhraseTable_co-aligned
+safety officer	security guard	PhraseTable_co-aligned
+safety officer	human security	PhraseTable_co-aligned
+step process	activity	PhraseTable_co-aligned
+step process	project	PhraseTable_co-aligned
+step process	period	PhraseTable_co-aligned
+step process	leg	PhraseTable_co-aligned
+step process	approach	PhraseTable_co-aligned
+step process	phased approach	PhraseTable_co-aligned
+step process	development cycle	PhraseTable_co-aligned
+step process	development project	PhraseTable_co-aligned
+step process	incremental approach	PhraseTable_co-aligned
+step process	life cycle	PhraseTable_co-aligned
+data base	figure	PhraseTable_co-aligned
+data base	record	PhraseTable_co-aligned
+data base	statistic	PhraseTable_co-aligned
+data base	number	PhraseTable_co-aligned
+data base	input	PhraseTable_co-aligned
+data base	information system	PhraseTable_co-aligned
+data base	personal information	PhraseTable_co-aligned
+data base	searchable database	PhraseTable_co-aligned
+data base	database system	PhraseTable_co-aligned
+data base	electronic database	PhraseTable_co-aligned
+school setting	classroom	PhraseTable_co-aligned
+school setting	education	PhraseTable_co-aligned
+school setting	training	PhraseTable_co-aligned
+school setting	student	PhraseTable_co-aligned
+school setting	schooling	PhraseTable_co-aligned
+school setting	training academy	PhraseTable_co-aligned
+school setting	education system	PhraseTable_co-aligned
+school setting	education community	PhraseTable_co-aligned
+school setting	educational environment	PhraseTable_co-aligned
+school setting	educational system	PhraseTable_co-aligned
+banking community	credit	PhraseTable_co-aligned
+banking community	company	PhraseTable_co-aligned
+banking community	investment	PhraseTable_co-aligned
+banking community	budget	PhraseTable_co-aligned
+banking community	insurance	PhraseTable_co-aligned
+banking community	large bank	PhraseTable_co-aligned
+banking community	bank branch	PhraseTable_co-aligned
+banking community	chartered bank	PhraseTable_co-aligned
+banking community	foreign bank	PhraseTable_co-aligned
+banking community	interest rate	PhraseTable_co-aligned
+paper copy	print	PhraseTable_co-aligned
+paper copy	year	PhraseTable_co-aligned
+paper copy	cat	PhraseTable_co-aligned
+paper copy	sample	PhraseTable_co-aligned
+paper copy	stock	PhraseTable_co-aligned
+paper copy	mailing list	PhraseTable_co-aligned
+paper copy	print version	PhraseTable_co-aligned
+paper copy	printed version	PhraseTable_co-aligned
+paper copy	print format	PhraseTable_co-aligned
+paper copy	success story	PhraseTable_co-aligned
+union workers	labour	PhraseTable_co-aligned
+union workers	unionist	PhraseTable_co-aligned
+union workers	member	PhraseTable_co-aligned
+union workers	worker	PhraseTable_co-aligned
+union workers	workforce	PhraseTable_co-aligned
+union workers	organized labour	PhraseTable_co-aligned
+government member	house	PhraseTable_co-aligned
+government member	minister	PhraseTable_co-aligned
+government member	department	PhraseTable_co-aligned
+government member	parliament	PhraseTable_co-aligned
+government member	mp	PhraseTable_co-aligned
+government member	previous speaker	PhraseTable_co-aligned
+government member	elected representative	PhraseTable_co-aligned
+government member	prime minister	PhraseTable_co-aligned
+government member	parliamentary secretary	PhraseTable_co-aligned
+government member	governing party	PhraseTable_co-aligned
+consensus building	issue	PhraseTable_co-aligned
+consensus building	cooperation	PhraseTable_co-aligned
+consensus building	focus	PhraseTable_co-aligned
+consensus building	coordination	PhraseTable_co-aligned
+consensus building	collaboration	PhraseTable_co-aligned
+consensus building	joint action	PhraseTable_co-aligned
+consensus building	general agreement	PhraseTable_co-aligned
+consensus building	concerted action	PhraseTable_co-aligned
+consensus building	concerted effort	PhraseTable_co-aligned
+consensus building	common ground	PhraseTable_co-aligned
+banking business	bank	PhraseTable_co-aligned
+banking business	industry	PhraseTable_co-aligned
+banking business	sector	PhraseTable_co-aligned
+banking business	banker	PhraseTable_co-aligned
+banking business	system	PhraseTable_co-aligned
+banking business	financial sector	PhraseTable_co-aligned
+banking business	private sector	PhraseTable_co-aligned
+team lead	coxswain	PhraseTable_co-aligned
+team lead	leader	PhraseTable_co-aligned
+team lead	head	PhraseTable_co-aligned
+team lead	supervisor	PhraseTable_co-aligned
+team lead	chief	PhraseTable_co-aligned
+team lead	crew chief	PhraseTable_co-aligned
+team lead	project leader	PhraseTable_co-aligned
+team lead	group leader	PhraseTable_co-aligned
+team lead	group head	PhraseTable_co-aligned
+team lead	cell leader	PhraseTable_co-aligned
+power reactor	plant	PhraseTable_co-aligned
+power reactor	facility	PhraseTable_co-aligned
+power reactor	industry	PhraseTable_co-aligned
+power reactor	station	PhraseTable_co-aligned
+power reactor	coal	PhraseTable_co-aligned
+power reactor	nuclear plant	PhraseTable_co-aligned
+power reactor	nuclear energy	PhraseTable_co-aligned
+power reactor	nuclear generation	PhraseTable_co-aligned
+power reactor	nuclear capacity	PhraseTable_co-aligned
+power reactor	nuclear industry	PhraseTable_co-aligned
+communications media	channel	PhraseTable_co-aligned
+communications media	vehicle	PhraseTable_co-aligned
+communications media	education	PhraseTable_co-aligned
+communications media	link	PhraseTable_co-aligned
+communications media	mechanism	PhraseTable_co-aligned
+communications media	effective communication	PhraseTable_co-aligned
+machinery manufacturing	equipment	PhraseTable_co-aligned
+machinery manufacturing	machine	PhraseTable_co-aligned
+machinery manufacturing	commercial	PhraseTable_co-aligned
+machinery manufacturing	total	PhraseTable_co-aligned
+machinery manufacturing	plastic	PhraseTable_co-aligned
+machinery manufacturing	equipment repair	PhraseTable_co-aligned
+machinery manufacturing	labour productivity	PhraseTable_co-aligned
+shift work	rotation	PhraseTable_co-aligned
+shift work	working	PhraseTable_co-aligned
+shift work	assignment	PhraseTable_co-aligned
+shift work	crew	PhraseTable_co-aligned
+shift work	duty	PhraseTable_co-aligned
+leadership team	management	PhraseTable_co-aligned
+leadership team	executive	PhraseTable_co-aligned
+leadership team	board	PhraseTable_co-aligned
+leadership team	manager	PhraseTable_co-aligned
+leadership team	staff	PhraseTable_co-aligned
+leadership team	management group	PhraseTable_co-aligned
+leadership team	senior management	PhraseTable_co-aligned
+work program	scheme	PhraseTable_co-aligned
+work program	schedule	PhraseTable_co-aligned
+work program	system	PhraseTable_co-aligned
+work program	policy	PhraseTable_co-aligned
+work program	fund	PhraseTable_co-aligned
+work program	action plan	PhraseTable_co-aligned
+work program	policy agenda	PhraseTable_co-aligned
+work program	head start	PhraseTable_co-aligned
+work program	pilot project	PhraseTable_co-aligned
+work program	public service	PhraseTable_co-aligned
+farm community	grower	PhraseTable_co-aligned
+farm community	farming	PhraseTable_co-aligned
+farm community	industry	PhraseTable_co-aligned
+farm community	people	PhraseTable_co-aligned
+farm community	producer	PhraseTable_co-aligned
+farm community	agricultural industry	PhraseTable_co-aligned
+farm community	agriculture industry	PhraseTable_co-aligned
+farm community	agriculture sector	PhraseTable_co-aligned
+farm community	farming sector	PhraseTable_co-aligned
+farm community	farming industry	PhraseTable_co-aligned
+leadership race	contest	PhraseTable_co-aligned
+leadership race	campaign	PhraseTable_co-aligned
+leadership race	hopeful	PhraseTable_co-aligned
+leadership race	bid	PhraseTable_co-aligned
+leadership race	convention	PhraseTable_co-aligned
+leadership race	nomination contest	PhraseTable_co-aligned
+project planning	preparedness	PhraseTable_co-aligned
+project planning	planner	PhraseTable_co-aligned
+project planning	plan	PhraseTable_co-aligned
+project planning	development	PhraseTable_co-aligned
+project planning	scheduling	PhraseTable_co-aligned
+project planning	public health	PhraseTable_co-aligned
+project planning	case management	PhraseTable_co-aligned
+project planning	decision making	PhraseTable_co-aligned
+project planning	director general	PhraseTable_co-aligned
+project planning	risk management	PhraseTable_co-aligned
+field training	coaching	PhraseTable_co-aligned
+field training	instruction	PhraseTable_co-aligned
+field training	apprenticeship	PhraseTable_co-aligned
+field training	train	PhraseTable_co-aligned
+field training	completion	PhraseTable_co-aligned
+field training	practical instruction	PhraseTable_co-aligned
+field training	practical education	PhraseTable_co-aligned
+university teaching	academic	PhraseTable_co-aligned
+university teaching	academia	PhraseTable_co-aligned
+university teaching	education	PhraseTable_co-aligned
+university teaching	economics	PhraseTable_co-aligned
+university teaching	engineering	PhraseTable_co-aligned
+university teaching	undergraduate education	PhraseTable_co-aligned
+university teaching	secondary education	PhraseTable_co-aligned
+media conference	announcement	PhraseTable_co-aligned
+media conference	news	PhraseTable_co-aligned
+media conference	press	PhraseTable_co-aligned
+media conference	event	PhraseTable_co-aligned
+media conference	meeting	PhraseTable_co-aligned
+media conference	press release	PhraseTable_co-aligned
+media conference	press briefing	PhraseTable_co-aligned
+service hours	hour	PhraseTable_co-aligned
+service hours	time	PhraseTable_co-aligned
+service hours	shift	PhraseTable_co-aligned
+service hours	unit	PhraseTable_co-aligned
+service hours	driver	PhraseTable_co-aligned
+investment community	capitalist	PhraseTable_co-aligned
+investment community	business	PhraseTable_co-aligned
+investment community	investing	PhraseTable_co-aligned
+investment community	people	PhraseTable_co-aligned
+investment community	angel	PhraseTable_co-aligned
+investment community	investor confidence	PhraseTable_co-aligned
+investment community	venture capital	PhraseTable_co-aligned
+investment community	investor interest	PhraseTable_co-aligned
+investment community	investor protection	PhraseTable_co-aligned
+investment community	equity capital	PhraseTable_co-aligned
+concept development	strategy	PhraseTable_co-aligned
+concept development	initiative	PhraseTable_co-aligned
+concept development	department	PhraseTable_co-aligned
+concept development	direction	PhraseTable_co-aligned
+concept development	articulation	PhraseTable_co-aligned
+concept development	decision making	PhraseTable_co-aligned
+concept development	drafting process	PhraseTable_co-aligned
+concept development	making process	PhraseTable_co-aligned
+concept development	program design	PhraseTable_co-aligned
+concept development	developmental stage	PhraseTable_co-aligned
+department staff	employee	PhraseTable_co-aligned
+department staff	official	PhraseTable_co-aligned
+department staff	personnel	PhraseTable_co-aligned
+department staff	external	PhraseTable_co-aligned
+department staff	military	PhraseTable_co-aligned
+hostage taking	incident	PhraseTable_co-aligned
+hostage taking	hijacking	PhraseTable_co-aligned
+hostage taking	event	PhraseTable_co-aligned
+hostage taking	kidnapping	PhraseTable_co-aligned
+hostage taking	perpetrator	PhraseTable_co-aligned
+income security	safety	PhraseTable_co-aligned
+income security	welfare	PhraseTable_co-aligned
+income security	net	PhraseTable_co-aligned
+income security	protection	PhraseTable_co-aligned
+income security	allowance	PhraseTable_co-aligned
+income security	safety net	PhraseTable_co-aligned
+income security	social assistance	PhraseTable_co-aligned
+income security	pension plan	PhraseTable_co-aligned
+income security	protection service	PhraseTable_co-aligned
+income security	mounted police	PhraseTable_co-aligned
+education degree	teaching	PhraseTable_co-aligned
+education degree	community	PhraseTable_co-aligned
+education degree	teacher	PhraseTable_co-aligned
+education degree	government	PhraseTable_co-aligned
+education degree	knowledge	PhraseTable_co-aligned
+education degree	educational system	PhraseTable_co-aligned
+education degree	legal background	PhraseTable_co-aligned
+education degree	educational attainment	PhraseTable_co-aligned
+education degree	school system	PhraseTable_co-aligned
+education degree	educational process	PhraseTable_co-aligned
+bridge crossing	balance	PhraseTable_co-aligned
+bridge crossing	address	PhraseTable_co-aligned
+bridge crossing	order	PhraseTable_co-aligned
+bridge crossing	intervention	PhraseTable_co-aligned
+bridge crossing	river	PhraseTable_co-aligned
+bridge crossing	fixed link	PhraseTable_co-aligned
+bridge crossing	deck area	PhraseTable_co-aligned
+bridge crossing	main deck	PhraseTable_co-aligned
+bridge crossing	deck level	PhraseTable_co-aligned
+bridge crossing	flight deck	PhraseTable_co-aligned
+project work	goal	PhraseTable_co-aligned
+project work	labour	PhraseTable_co-aligned
+project work	contract	PhraseTable_co-aligned
+project work	objective	PhraseTable_co-aligned
+project work	result	PhraseTable_co-aligned
+project work	proposed bill	PhraseTable_co-aligned
+project work	standing committee	PhraseTable_co-aligned
+project work	proposed regulation	PhraseTable_co-aligned
+project work	proposed legislation	PhraseTable_co-aligned
+project work	proposed order	PhraseTable_co-aligned
+government level	authority	PhraseTable_co-aligned
+government level	party	PhraseTable_co-aligned
+government level	state	PhraseTable_co-aligned
+government level	environment	PhraseTable_co-aligned
+government level	budget	PhraseTable_co-aligned
+government level	public service	PhraseTable_co-aligned
+government level	governing party	PhraseTable_co-aligned
+government level	prime minister	PhraseTable_co-aligned
+government level	public policy	PhraseTable_co-aligned
+government level	climate change	PhraseTable_co-aligned
+confidence building	comfort	PhraseTable_co-aligned
+confidence building	certainty	PhraseTable_co-aligned
+confidence building	fidelity	PhraseTable_co-aligned
+confidence building	hope	PhraseTable_co-aligned
+confidence building	sense	PhraseTable_co-aligned
+confidence building	public trust	PhraseTable_co-aligned
+confidence building	mutual trust	PhraseTable_co-aligned
+confidence building	good faith	PhraseTable_co-aligned
+confidence building	trust relationship	PhraseTable_co-aligned
+confidence building	comfort level	PhraseTable_co-aligned
+events calendar	event	PhraseTable_co-aligned
+events calendar	link	PhraseTable_co-aligned
+events calendar	timing	PhraseTable_co-aligned
+events calendar	attraction	PhraseTable_co-aligned
+events calendar	schedule	PhraseTable_co-aligned
+building trust	support	PhraseTable_co-aligned
+building trust	faith	PhraseTable_co-aligned
+building trust	fidelity	PhraseTable_co-aligned
+building trust	honour	PhraseTable_co-aligned
+building trust	distrust	PhraseTable_co-aligned
+building trust	confidence level	PhraseTable_co-aligned
+building trust	confidence vote	PhraseTable_co-aligned
+building trust	confidential nature	PhraseTable_co-aligned
+building trust	public confidence	PhraseTable_co-aligned
+building trust	confidence motion	PhraseTable_co-aligned
+management office	agency	PhraseTable_co-aligned
+management office	room	PhraseTable_co-aligned
+management office	business	PhraseTable_co-aligned
+management office	department	PhraseTable_co-aligned
+management office	centre	PhraseTable_co-aligned
+management office	polling station	PhraseTable_co-aligned
+management office	executive committee	PhraseTable_co-aligned
+management office	web site	PhraseTable_co-aligned
+management office	auditor general	PhraseTable_co-aligned
+management office	executive board	PhraseTable_co-aligned
+police community	member	PhraseTable_co-aligned
+police community	cop	PhraseTable_co-aligned
+police community	policeman	PhraseTable_co-aligned
+police community	enforcement	PhraseTable_co-aligned
+police community	marshal	PhraseTable_co-aligned
+police community	law enforcement	PhraseTable_co-aligned
+police community	peace officer	PhraseTable_co-aligned
+police community	civilian oversight	PhraseTable_co-aligned
+police community	crime prevention	PhraseTable_co-aligned
+police community	criminal justice	PhraseTable_co-aligned
+business women	woman	PhraseTable_co-aligned
+business women	entrepreneur	PhraseTable_co-aligned
+business women	trade	PhraseTable_co-aligned
+business women	businessperson	PhraseTable_co-aligned
+business women	development	PhraseTable_co-aligned
+personnel administration	management	PhraseTable_co-aligned
+personnel administration	employee	PhraseTable_co-aligned
+personnel administration	people	PhraseTable_co-aligned
+personnel administration	work	PhraseTable_co-aligned
+personnel administration	staff	PhraseTable_co-aligned
+personnel administration	staff management	PhraseTable_co-aligned
+personnel administration	workforce management	PhraseTable_co-aligned
+personnel administration	personal management	PhraseTable_co-aligned
+personnel administration	resource management	PhraseTable_co-aligned
+grants program	bursary	PhraseTable_co-aligned
+grants program	fellowship	PhraseTable_co-aligned
+grants program	project	PhraseTable_co-aligned
+grants program	package	PhraseTable_co-aligned
+grants program	scheme	PhraseTable_co-aligned
+grants program	scholarship fund	PhraseTable_co-aligned
+grants program	grant funding	PhraseTable_co-aligned
+grants program	grant money	PhraseTable_co-aligned
+grants program	financial assistance	PhraseTable_co-aligned
+grants program	action plan	PhraseTable_co-aligned
+school council	district	PhraseTable_co-aligned
+school council	student	PhraseTable_co-aligned
+school council	education	PhraseTable_co-aligned
+school council	college	PhraseTable_co-aligned
+school council	councillor	PhraseTable_co-aligned
+school council	education board	PhraseTable_co-aligned
+school council	education authority	PhraseTable_co-aligned
+school council	local board	PhraseTable_co-aligned
+school council	board level	PhraseTable_co-aligned
+gathering data	information	PhraseTable_co-aligned
+gathering data	collect	PhraseTable_co-aligned
+gathering data	collection	PhraseTable_co-aligned
+gathering data	collecting	PhraseTable_co-aligned
+gathering data	document	PhraseTable_co-aligned
+gathering data	collect information	PhraseTable_co-aligned
+gathering data	collecting information	PhraseTable_co-aligned
+gathering data	gather information	PhraseTable_co-aligned
+gathering data	provide information	PhraseTable_co-aligned
+gathering data	collected information	PhraseTable_co-aligned
+presiding judge	trier	PhraseTable_co-aligned
+presiding judge	belief	PhraseTable_co-aligned
+presiding judge	found	PhraseTable_co-aligned
+presiding judge	umpire	PhraseTable_co-aligned
+presiding judge	opinion	PhraseTable_co-aligned
+presiding judge	chief justice	PhraseTable_co-aligned
+presiding judge	attorney general	PhraseTable_co-aligned
+presiding judge	federal court	PhraseTable_co-aligned
+presiding judge	judicial review	PhraseTable_co-aligned
+presiding judge	judicial officer	PhraseTable_co-aligned
+making money	profit	PhraseTable_co-aligned
+making money	make	PhraseTable_co-aligned
+making money	cash	PhraseTable_co-aligned
+making money	dollar	PhraseTable_co-aligned
+making money	income	PhraseTable_co-aligned
+making money	earning power	PhraseTable_co-aligned
+surrounding area	vicinity	PhraseTable_co-aligned
+surrounding area	part	PhraseTable_co-aligned
+surrounding area	community	PhraseTable_co-aligned
+surrounding area	country	PhraseTable_co-aligned
+surrounding area	location	PhraseTable_co-aligned
+surrounding area	regional level	PhraseTable_co-aligned
+surrounding area	capital region	PhraseTable_co-aligned
+surrounding area	geographic region	PhraseTable_co-aligned
+surrounding area	pacific region	PhraseTable_co-aligned
+surrounding area	regional basis	PhraseTable_co-aligned
+sharing information	share	PhraseTable_co-aligned
+sharing information	exchange	PhraseTable_co-aligned
+sharing information	communication	PhraseTable_co-aligned
+sharing information	intelligence	PhraseTable_co-aligned
+sharing information	data	PhraseTable_co-aligned
+sharing information	share intelligence	PhraseTable_co-aligned
+sharing information	knowledge exchange	PhraseTable_co-aligned
+sharing information	data exchange	PhraseTable_co-aligned
+sharing information	intelligence gathering	PhraseTable_co-aligned
+sharing information	share knowledge	PhraseTable_co-aligned
+gathering information	intelligence	PhraseTable_co-aligned
+gathering information	collection	PhraseTable_co-aligned
+gathering information	data	PhraseTable_co-aligned
+gathering information	collect	PhraseTable_co-aligned
+gathering information	collecting	PhraseTable_co-aligned
+gathering information	gather intelligence	PhraseTable_co-aligned
+gathering information	intelligence collection	PhraseTable_co-aligned
+gathering information	collecting intelligence	PhraseTable_co-aligned
+gathering information	data collection	PhraseTable_co-aligned
+gathering information	collected data	PhraseTable_co-aligned
+fighting crime	criminal	PhraseTable_co-aligned
+fighting crime	combat	PhraseTable_co-aligned
+fighting crime	control	PhraseTable_co-aligned
+fighting crime	criminality	PhraseTable_co-aligned
+fighting crime	enforcement	PhraseTable_co-aligned
+fighting crime	law enforcement	PhraseTable_co-aligned
+raising awareness	sensitization	PhraseTable_co-aligned
+raising awareness	share	PhraseTable_co-aligned
+raising awareness	understanding	PhraseTable_co-aligned
+raising awareness	increase	PhraseTable_co-aligned
+raising awareness	raise	PhraseTable_co-aligned
+raising awareness	public education	PhraseTable_co-aligned
+raising awareness	sensitivity training	PhraseTable_co-aligned
+raising awareness	provide information	PhraseTable_co-aligned
+raising awareness	public understanding	PhraseTable_co-aligned
+raising awareness	education process	PhraseTable_co-aligned
+ageing population	aging	PhraseTable_co-aligned
+ageing population	age	PhraseTable_co-aligned
+ageing population	demographic	PhraseTable_co-aligned
+ageing population	increase	PhraseTable_co-aligned
+ageing population	aged	PhraseTable_co-aligned
+ageing population	aging society	PhraseTable_co-aligned
