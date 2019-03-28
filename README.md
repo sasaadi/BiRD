@@ -31,13 +31,13 @@ In order to obtain the related terms for any bigram, run the script `generate_re
 
 where
 
-- p2pt is the path to the generated  `phrase_table_unigram_bigram.txt` file from phrase table,
-- p2wikipedia is tha path to the generated `wikipedia_unigram_bigram.pickle` file from Wikipedia,
-- freq is the frequency threshold of English phrases in the phrase table,
-- syn_number is the maximum number of required related term for each bigram,
-- syn_number is the maximum number of required related term for each AB,
-- p2in is the path to the input file `bigrams_file.txt`,
-- p2out is the path to the output file where all related terms of the bigrams is saved.
+- *p2pt* is the path to the generated  `phrase_table_unigram_bigram.txt` file from phrase table,
+- *p2wikipedia* is the path to the generated `wikipedia_unigram_bigram.pickle` file from Wikipedia,
+- *freq* is the frequency threshold of English phrases in the phrase table,
+- *syn_number* is the maximum number of required related term for each bigram,
+- *syn_number* is the maximum number of required related term for each AB,
+- *p2in* is the path to the input file `bigrams_file.txt`,
+- *p2out* is the path to the output file where all related terms of the bigrams is saved.
 
 
 If p2bigram argument is not set in the argument list, you are asked to enter a bigram as the input after running the script. In this case, if you type 'exit', it quits the program.
