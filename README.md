@@ -48,4 +48,4 @@ If a bigram does not exist in WordNet or phrase table, the program outputs "not 
 
 Please cite our paper [1] to reference to our dataset or code.
 
-[1] Big Bird: A Large, Fine-Grained, Bigram Relatedness Dataset. Shima Asaadi, Saif M. Mohammad, and Svetlana Kiritchenko. In Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL-2019), June 2019, Minnesota, USA.
+[1] Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset. Shima Asaadi, Saif M. Mohammad, and Svetlana Kiritchenko. In Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL-2019), June 2019, Minnesota, USA.
