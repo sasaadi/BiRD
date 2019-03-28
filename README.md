@@ -40,8 +40,8 @@ where
 - *p2out* is the path to the output file where all related terms of the bigrams is saved.
 
 
-If p2bigram argument is not set in the argument list, you are asked to enter a bigram as the input after running the script. In this case, if you type 'exit', it quits the program.
-If p2out is not set in the argument list, the obtained related terms are not saved in the output file.
+If *p2bigram* argument is not set in the argument list, you are asked to enter a bigram as the input after running the script. In this case, if you type *exit* it quits the program.
+If *p2out* is not set in the argument list, the obtained related terms are not saved in the output file.
 If a bigram does not exist in WordNet or phrase table, the program outputs "not found" into STDOUT.
 
 # Reference
