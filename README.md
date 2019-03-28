@@ -17,10 +17,11 @@ pip install -r python/requirements.txt
 
 ## Files
 
-1. `generate_related_terms.py` Main script to obtain the related terms for any bigram AB.
-2. `bigrams_file.txt` List of bigrams of which the related terms will be extracted. Each line is a bigram.
-3. `phrase_table_unigram_bigram.txt` This file is the output of the processed phrase table of [NRC Portage Machine Translation Toolkit](http://www.aclweb.org/anthology/W10-1717). It only contains one-word and two-word English translations of french phrases (disregarding frequency).
-4. `wikipedia_unigram_bigram.pickle` The list of unigram and bigrams and their frequencies in Wikipedia. We used English Wikipedia dump 2018 in our work. We only consider adjective-noun or noun-noun bigrams. 
+1. `data.zip` is a compressed file which contains `phrase_table_unigram_bigram.txt` and `wikipedia_unigram_bigram.pickle` files. Unzip the files to proceed.
+2. `generate_related_terms.py` Main script to obtain the related terms for any bigram AB.
+3. `bigrams_file.txt` List of bigrams of which the related terms will be extracted. Each line is a bigram.
+4. `phrase_table_unigram_bigram.txt` This file is the output of the processed phrase table of [NRC Portage Machine Translation Toolkit](http://www.aclweb.org/anthology/W10-1717). It only contains one-word and two-word English translations of french phrases (disregarding frequency).
+5. `wikipedia_unigram_bigram.pickle` The list of unigram and bigrams and their frequencies in Wikipedia. We used English Wikipedia dump 2018 in our work. We only consider adjective-noun or noun-noun bigrams. 
 
 ## Running the code
 
