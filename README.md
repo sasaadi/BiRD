@@ -1,6 +1,6 @@
 # Introduction
 
-This repository is a Python implementation to generate term pairs of the English Bigram Relatedness Dataset (BiRD). Details on how we created the BiRD can be found in our paper: [Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset: A Resource For Examining Semantic Composition](URL).
+This repository is a Python implementation to generate term pairs of the English Bigram Relatedness Dataset (BiRD). Details on how we created the BiRD can be found in our paper: [Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset for Examining Semantic Composition](URL).
 
 BiRD can be used for two purposes: (1) to evaluate methods of semantic composition and (2) to analyse to obtain insights into bigram semantic relatedness. Both purposes are studied in detail in [our paper](URL). An interactive visualizations of the data to explore and the annotation questionnaire which is used for data annotation are also available through the [project's webpage](http://saifmohammad.com/WebPages/BiRD.html). 
 
@@ -48,4 +48,4 @@ If a bigram does not exist in WordNet or phrase table, the program outputs "not 
 
 Please cite our paper [1] to reference to our dataset or code.
 
-[1] Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset. Shima Asaadi, Saif M. Mohammad, and Svetlana Kiritchenko. In Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL-2019), June 2019, Minnesota, USA.
+[1] Big BiRD: A Large, Fine-Grained, Bigram Relatedness Dataset for Examining Semantic Composition. Shima Asaadi, Saif M. Mohammad, and Svetlana Kiritchenko. In Proceedings of the North American Chapter of the Association for Computational Linguistics (NAACL-2019), June 2019, Minnesota, USA.
