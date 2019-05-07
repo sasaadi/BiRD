@@ -27,7 +27,7 @@ pip install -r python/requirements.txt
 
 In order to obtain the related terms for any bigram, run the script `generate_related_terms.py`. The command to run the script is as follows:
 
-`python generate_related_terms.py -p2pt PATH_TO_PHRASE_TABLE -p2wikipedia PATH_TO_WIKIPEDIA -freq 30 syn_number 5 -p2in PATH_TO_INPUT -p2out PATH_TO_OUTPUT`
+`python generate_related_terms.py -p2pt PATH_TO_PHRASE_TABLE -p2wikipedia PATH_TO_WIKIPEDIA -freq 30 -syn_number 5 -p2in PATH_TO_INPUT -p2out PATH_TO_OUTPUT`
 
 where
 
