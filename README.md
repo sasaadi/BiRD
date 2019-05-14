@@ -19,13 +19,11 @@ pip install -r python/requirements.txt
 
 1. `generate_related_terms.py` Main script to obtain the related terms for any bigram AB.
 2. `bigrams_file.txt` List of bigrams of which the related terms will be extracted. Each line is a bigram.
-3. `phrase_table_unigram_bigram.txt` This file is the output of the processed phrase table of [NRC Portage Machine Translation Toolkit](http://www.aclweb.org/anthology/W10-1717). It only contains one-word and two-word English translations of french phrases (disregarding frequency). This file is in `data.zip`. Unzip to use in the code.
-4. `wikipedia_unigram_bigram.pickle` The list of unigram and bigrams and their frequencies in Wikipedia. We used English Wikipedia dump 2018 in our work. We only consider adjective-noun or noun-noun bigrams. This file is in `data.zip`. Unzip to use in the code.
+3. `data.zip` is a zip file which contains the following files:
+    * `phrase_table_unigram_bigram.txt` This file is the output of the processed phrase table of [NRC Portage Machine Translation Toolkit](http://www.aclweb.org/anthology/W10-1717). It only contains one-word and two-word English translations of french phrases (disregarding frequency). This file is in `data.zip`. Unzip to use in the code.
+    * `wikipedia_unigram_bigram.pickle` The list of unigram and bigrams and their frequencies in Wikipedia. We used English Wikipedia dump 2018 in our work. We only consider adjective-noun or noun-noun bigrams. This file is in `data.zip`. Unzip to use in the code.
 5. `semantic_composition_evaluation.py` Main script to examine semantic composition methods on BiRD. This script calls the word embeddings from fastText, GloVe and term_context matrix from the `word_embeddings` folder in the project and reproduces the results of the Table 4 in the paper. Note that these results were obtained from a subset of BiRD (3,159 pairs) since some words in BiRD do not occur in some of the corpora used to create the word vectors embeddings.
-
-## Folders
-
- `word_embeddings.zip`  contains three embedding files. Unzip the file for further process. The files `fasttext.txt`, `glove.txt` and `term-context.txt` in the folder contain only the words and their vectors which occur on a subset of BiRD (3,159 pairs). 
+6. `word_embeddings.zip`  contains three embedding files. Unzip the file for further process. The files `fasttext.txt`, `glove.txt` and `term-context.txt` in the folder contain only the words and their vectors which occur on a subset of BiRD (3,159 pairs). 
 
 
 ## Running the code
