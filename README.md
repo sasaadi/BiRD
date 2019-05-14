@@ -59,9 +59,7 @@ For example:
 where:
 - *p2bird* is the path to the BiRD file,
 - *p2embedding* is the path to the embedding file. In this project, three embedding files from fastText, glove and term-context matrix are available in the `word_embeddings` folder. You can use other word embeddings. The file format should be as follows:
-
 <word><space><vector>
-
 please see the files in the `word_embedding` folder.
 - *p2out* is the path to write the results of the semantic composition evaluation to the output file.
 
