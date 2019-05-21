@@ -23,6 +23,7 @@ def get_word_vector_embeddings(path_to_embedding):
         for line in file:
             word = line.split()[0]
             vector = [float(x) for x in line.split()[1:]]
+            dimension = len(vector)
             vector = np.asarray(vector)
             model[str(word)] = vector
     return model, dimension
