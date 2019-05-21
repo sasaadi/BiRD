@@ -277,7 +277,7 @@ def get_args():
 if __name__ == "__main__":
 
     lda = 2
-    dimen = 0
+    dimen = 300
     model = dict()
     args = get_args()
     # Create a model from the requested word embedding
