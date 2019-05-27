@@ -17,7 +17,7 @@ def read_dataset(path_to_bird):
 
 
 def get_word_vector_embeddings(path_to_embedding):
-    dimension = 300
+    dimension = -1
     model = dict()
     with open(path_to_embedding,"r") as file:
         for line in file:
