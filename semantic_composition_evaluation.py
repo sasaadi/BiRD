@@ -220,8 +220,8 @@ def compute_modifier_only_ranking(model, dataset, path_to_output):
 # Dilation function from Mitchell and Lapata (2010)
 def dilation(v, u, lda):
     out = np.ndarray(len(v),dtype=float)
-    for i in range(len(v)):
-        out = v * sum(u*u) + (lda - 1)*u*sum(u*v)
+    # for i in range(len(v)):
+    out = v * sum(u*u) + (lda - 1)*u*sum(u*v)
     return out
 
 
